@@ -1,0 +1,43 @@
+name: Rent a car taraması
+
+on:
+  workflow_dispatch:
+    inputs:
+      plakalar:
+        description: "Taranacak plaka kodları (boşluklu, boş = 81 il)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "17 3 1 * *"  # her ayın 1'i
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tara
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: OpenStreetMap taraması
+        run: python3 scripts/tara_osm.py ${{ github.event.inputs.plakalar }}
+      - name: İl listelerini oluştur
+        run: python3 scripts/olustur.py
+      - name: Değişiklikleri kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+          else
+            git commit -m "Veri: rent a car listeleri güncellendi ($(date -u +%Y-%m-%d))"
+            git push
+          fi
