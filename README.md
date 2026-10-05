@@ -14,7 +14,9 @@ firma adı, yetkili, telefon, website ve e-posta.
 | [OpenStreetMap](https://www.openstreetmap.org) (Overpass API) | Firma adı, telefon, website, e-posta, adres, ilçe | `scripts/tara_osm.py` her il için `amenity=car_rental` / `shop=car_rental` etiketli ve adında "rent a car", "araç kiralama" vb. geçen işletmeleri çeker |
 | `data/manuel.csv` | Yetkili kişi ve OSM'de eksik bilgiler | Elle eklenir; OSM kaydıyla aynı firma (isim + telefon) ise otomatik birleştirilir, manuel değer önceliklidir |
 
-`scripts/olustur.py` iki kaynağı birleştirir, tekrar eden kayıtları ayıklar ve
+`scripts/olustur.py` iki kaynağı birleştirir, tekrar eden kayıtları ayıklar
+(aynı ildeki aynı isimli şubeler tek satırda toplanır, tüm OSM bağlantıları
+`kaynak` sütununda kalır; ismi olmayan OSM noktaları listelenmez) ve
 `data/` altındaki tüm liste dosyalarını yeniden üretir. Liste dosyalarını elle
 düzenlemeyin; değişiklikleri `data/manuel.csv`'ye yapıp scripti çalıştırın.
 
