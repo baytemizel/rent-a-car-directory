@@ -32,7 +32,7 @@ repoya commit eder:
 Yalnızca Python 3.10+ gerekir, ek paket yoktur.
 
 ```bash
-python3 scripts/tara_osm.py          # 81 il (~5-10 dk). Belirli iller: tara_osm.py 34 6 35
+python3 scripts/tara_osm.py          # 81 il, tek sorgu (birkaç dk). Belirli iller: tara_osm.py 34 6 35
 python3 scripts/olustur.py           # listeleri üret
 ```
 
