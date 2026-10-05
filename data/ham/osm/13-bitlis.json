@@ -1,0 +1,26 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3804599394,
+   "lat": 38.5019559,
+   "lon": 42.280936,
+   "tags": {
+    "addr:city": "Tatvan/Bitlis",
+    "amenity": "car_rental",
+    "name": "Tatvan Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7908818331,
+   "lat": 38.4900343,
+   "lon": 42.2904419,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Emir Otomotiv Rent A Car"
+   }
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4672169489,
+   "lat": 39.7684237,
+   "lon": 30.5111751,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rentesk",
+    "name:en": "Rentesk",
+    "name:tr": "Rentesk"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12143442126,
+   "lat": 39.7835105,
+   "lon": 30.5007405,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rent Go"
+   }
+  }
+ ]
+}

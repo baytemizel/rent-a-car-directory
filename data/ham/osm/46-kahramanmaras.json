@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 7192030588,
+   "lat": 37.5836427,
+   "lon": 36.8907649,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Lüx Oto Kiralama"
+   }
+  }
+ ]
+}

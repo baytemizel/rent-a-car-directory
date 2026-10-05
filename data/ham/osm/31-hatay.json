@@ -1,0 +1,88 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 11371254710,
+   "lat": 36.3346772,
+   "lon": 36.2045264,
+   "tags": {
+    "addr:city": "Hatay",
+    "addr:district": "Antakya",
+    "addr:neighbourhood": "Serinyol",
+    "addr:postcode": "31000",
+    "addr:street": "Şefik Seyfettin Bulvarı",
+    "amenity": "car_rental",
+    "name": "Konfor Rent a Car Otomotiv"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11371254711,
+   "lat": 36.3347217,
+   "lon": 36.2042261,
+   "tags": {
+    "addr:city": "Hatay",
+    "addr:district": "Antakya",
+    "addr:neighbourhood": "Serinyol",
+    "addr:postcode": "31000",
+    "addr:street": "Şefik Seyfettin Bulvarı",
+    "amenity": "car_rental",
+    "name": "Karem Oto Alım Satı Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11513746024,
+   "lat": 36.3600247,
+   "lon": 36.2168187,
+   "tags": {
+    "addr:city": "Hatay",
+    "addr:district": "Antakya",
+    "addr:neighbourhood": "Serinyol",
+    "addr:postcode": "31000",
+    "addr:street": "Atatürk Caddesi",
+    "amenity": "car_rental",
+    "name": "YLÇ Rent A Car",
+    "phone": "+905388574648, +905527272242, +90538576248, +905527272242"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11513843649,
+   "lat": 36.3599019,
+   "lon": 36.216998,
+   "tags": {
+    "addr:city": "Hatay",
+    "addr:district": "Antakya",
+    "addr:neighbourhood": "Serinyol",
+    "addr:postcode": "31000",
+    "addr:street": "Atatürk Caddesi",
+    "amenity": "car_rental",
+    "name": "YD OTO KİRALAMA&YIKAMA",
+    "phone": "+905524708055"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12800869091,
+   "lat": 36.2556974,
+   "lon": 36.1795903,
+   "tags": {
+    "addr:city": "Hatay",
+    "addr:district": "Antakya",
+    "addr:neighbourhood": "Küçükdalyan",
+    "addr:postcode": "31100",
+    "addr:street": "E5 Karayolu Caddesi",
+    "amenity": "car_rental",
+    "mobile": "+905352839493",
+    "name": "Havare Oto Kurtarma",
+    "opening_hours": "24/7",
+    "operator": "Havare Oto Kurtarma",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+   }
+  }
+ ]
+}

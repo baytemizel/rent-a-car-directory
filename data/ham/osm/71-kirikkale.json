@@ -1,0 +1,23 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 5292055688,
+   "lat": 39.8422171,
+   "lon": 33.502653,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5292055709,
+   "lat": 39.84153,
+   "lon": 33.5007747,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  }
+ ]
+}

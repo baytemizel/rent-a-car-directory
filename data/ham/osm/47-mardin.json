@@ -1,0 +1,102 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3805022498,
+   "lat": 37.3211165,
+   "lon": 40.7222234,
+   "tags": {
+    "addr:city": "Artuklu/Mardin",
+    "amenity": "car_rental",
+    "name": "Sevgi Rent A Car",
+    "phone": "+90 488 212 51 53"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4450716304,
+   "lat": 37.317912,
+   "lon": 40.724096,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Mardin Ela Rent A Car",
+    "phone": "+90 532 375 5340"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4450716404,
+   "lat": 37.326002,
+   "lon": 40.717788,
+   "tags": {
+    "addr:street": "Işık Cad.",
+    "amenity": "car_rental",
+    "name": "Mardin Rent A Car",
+    "phone": "+90 541 460 0047"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4851412122,
+   "lat": 37.5463737,
+   "lon": 41.7179733,
+   "tags": {
+    "addr:city": "Mardin",
+    "addr:district": "Dargeçit",
+    "addr:housenumber": "55/A",
+    "addr:neighbourhood": "Tepebaşı Mah.",
+    "addr:street": "Barış Bulvarı",
+    "amenity": "car_rental",
+    "name": "Vural Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4853013421,
+   "lat": 37.412353,
+   "lon": 41.3740967,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kâni Oto Kiralama",
+    "name:tr": "Kâni Oto Kiralama",
+    "phone": "+90535 602 27 51"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5433239233,
+   "lat": 37.3261436,
+   "lon": 40.7231395,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Can Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10172871956,
+   "lat": 37.5447363,
+   "lon": 41.7224046,
+   "tags": {
+    "addr:city": "Mardin",
+    "addr:district": "Dargeçit",
+    "addr:neighbourhood": "Saray Mah.",
+    "addr:street": "Kılavuz Caddesi",
+    "amenity": "car_rental",
+    "name": "Acar Rent A Car",
+    "phone": "+90 543 413 26 52"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13935105501,
+   "lat": 37.5490969,
+   "lon": 41.7097059,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Serhat Rent A Car"
+   }
+  }
+ ]
+}

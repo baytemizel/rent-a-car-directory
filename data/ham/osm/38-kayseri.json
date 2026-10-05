@@ -1,0 +1,125 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4511220101,
+   "lat": 38.7240117,
+   "lon": 35.4872295,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7983930485,
+   "lat": 38.7585069,
+   "lon": 35.4836844,
+   "tags": {
+    "amenity": "car_rental",
+    "name:fr": "Cizgi Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9212120317,
+   "lat": 38.750629,
+   "lon": 35.4845513,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Avec car rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9247476917,
+   "lat": 38.7533351,
+   "lon": 35.4835384,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "NISSA"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10106549828,
+   "lat": 38.7652176,
+   "lon": 35.4816068,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "AVIS",
+    "check_date": "2023-07-30",
+    "name": "AVIS"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11077419754,
+   "lat": 38.7652088,
+   "lon": 35.481569,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "SIXT",
+    "brand:wikidata": "Q705664",
+    "check_date": "2023-07-30",
+    "name": "SIXT"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11077419755,
+   "lat": 38.7652135,
+   "lon": 35.481632,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-07-30",
+    "name": "FiloPark"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11077419756,
+   "lat": 38.7652677,
+   "lon": 35.4815414,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-07-30",
+    "name": "Garenta"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11077419757,
+   "lat": 38.7652784,
+   "lon": 35.4815792,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-07-30",
+    "name": "Cizgi"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11077419758,
+   "lat": 38.7652731,
+   "lon": 35.4816146,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-07-30",
+    "name": "GreenMotion"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13547201482,
+   "lat": 38.7206445,
+   "lon": 35.4960312,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Baybars Rent A Car",
+    "phone": "+90 507 823 6689",
+    "website": "https://www.baybarsrentacar.com/"
+   }
+  }
+ ]
+}

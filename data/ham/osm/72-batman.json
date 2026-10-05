@@ -1,0 +1,902 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 2491947786,
+   "lat": 37.9110796,
+   "lon": 41.1401498,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "2/AA",
+    "addr:neighbourhood": "Belde Mah.",
+    "addr:street": "Eflatun Caddesi",
+    "amenity": "car_rental",
+    "name": "RS Rent a Car",
+    "phone": "+90 542 464 9212"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2562603783,
+   "lat": 37.9010717,
+   "lon": 41.1317908,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Onur Rent a Car",
+    "phone": "+90 543 439 2432"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3213664485,
+   "lat": 37.8946089,
+   "lon": 41.1272425,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Hamidiler Caddesi",
+    "amenity": "car_rental",
+    "name": "Babacan Oto Kiralama",
+    "phone": "+90537 652 8087"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3349794972,
+   "lat": 37.8863599,
+   "lon": 41.1290252,
+   "tags": {
+    "addr:city": "Batman",
+    "amenity": "car_rental",
+    "name": "Aksoy Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3415464847,
+   "lat": 37.88833,
+   "lon": 41.1312432,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "1506.SK",
+    "amenity": "car_rental",
+    "name": "DT Rent A Car",
+    "phone": "+90 541 592 0474"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3419541341,
+   "lat": 37.8902261,
+   "lon": 41.1297064,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Turgut Ozal Blv",
+    "amenity": "car_rental",
+    "name": "Eren Rent A Car",
+    "phone": "+90 532 671 3573"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3419572294,
+   "lat": 37.8865213,
+   "lon": 41.1287652,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Atatürk Bulvarı",
+    "amenity": "car_rental",
+    "name": "Nehir Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3439102315,
+   "lat": 37.8937109,
+   "lon": 41.1236584,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:neighbourhood": "Pınarbaşı Mah.",
+    "addr:street": "Kıbrıs Şehitleri Bulvarı",
+    "amenity": "car_rental",
+    "name": "Ümit Rent A Car",
+    "phone": "+90 488 212 0131"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3444869941,
+   "lat": 37.9028807,
+   "lon": 41.1322694,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:neighbourhood": "Gap Mah.",
+    "addr:street": "Lavanta Sokağı",
+    "amenity": "car_rental",
+    "name": "Petrocity Rent A Car",
+    "phone": "+90 532 516 6338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3444869942,
+   "lat": 37.9017068,
+   "lon": 41.1318274,
+   "tags": {
+    "addr:city": "Batman",
+    "amenity": "car_rental",
+    "name": "Park Rent A Car",
+    "phone": "+90 544 576 5747"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3450322189,
+   "lat": 37.8928704,
+   "lon": 41.1264409,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Hamidiler Caddesi",
+    "amenity": "car_rental",
+    "name": "İnci Rent A Car",
+    "phone": "+90 542 766 7488"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3451699386,
+   "lat": 37.8958734,
+   "lon": 41.1340163,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "1623. Sk",
+    "amenity": "car_rental",
+    "name": "Atlas Oto Kiralama",
+    "phone": "+90 507 059 7607"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3463510953,
+   "lat": 37.8981474,
+   "lon": 41.1313219,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:housenumber": "9/A",
+    "addr:street": "2502. Sk",
+    "amenity": "car_rental",
+    "name": "Nova Rent A Car",
+    "phone": "+90 545 518 4222"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3465085955,
+   "lat": 37.893763,
+   "lon": 41.1282772,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Sevgi Caddesi",
+    "amenity": "car_rental",
+    "name": "Laçin Rent A Car",
+    "phone": "+90 532 496 7569"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3465119348,
+   "lat": 37.8818743,
+   "lon": 41.1202084,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "10/B",
+    "addr:neighbourhood": "Yeni Mah.",
+    "addr:street": "Yunus Emre Caddesi",
+    "amenity": "car_rental",
+    "name": "İtimat Rent A Car",
+    "phone": "+90 488 215 3921",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3481507701,
+   "lat": 37.8863622,
+   "lon": 41.1261602,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Edip Solmaz Bulvarı",
+    "amenity": "car_rental",
+    "name": "Di-Sev Rent A Car",
+    "phone": "+90 532 684 8793"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3529629511,
+   "lat": 37.8967835,
+   "lon": 41.1403707,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "İnsan Haklari Blv",
+    "amenity": "car_rental",
+    "name": "MST Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3529629512,
+   "lat": 37.8970628,
+   "lon": 41.1412891,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:street": "İnsan Hakları Bulvarı",
+    "amenity": "car_rental",
+    "name": "Behlan Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3607000539,
+   "lat": 37.9035915,
+   "lon": 41.1310139,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Turgut Özal Bulvarı",
+    "amenity": "car_rental",
+    "name": "RISE CITY Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3702280519,
+   "lat": 37.8802504,
+   "lon": 41.1255638,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Cumhuriyet Bulvarı",
+    "amenity": "car_rental",
+    "name": "AYS Rent A Car",
+    "phone": "+90 535 634 44 62"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3706037850,
+   "lat": 37.9042312,
+   "lon": 41.1259164,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "2629. Sk",
+    "amenity": "car_rental",
+    "name": "Onur Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3750353367,
+   "lat": 37.8839854,
+   "lon": 41.1286326,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:housenumber": "9",
+    "addr:street": "Toptancılar Caddesi",
+    "amenity": "car_rental",
+    "name": "Bahoz Rent A Car",
+    "phone": "+90 488 212 0968",
+    "phone1": "0545 272 71 20",
+    "phone2": "0545 613 97 53"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3750353376,
+   "lat": 37.879764,
+   "lon": 41.1277694,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "İstasyon Caddesi",
+    "amenity": "car_rental",
+    "name": "Efor Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3765987642,
+   "lat": 37.8963424,
+   "lon": 41.1319754,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "amenity": "car_rental",
+    "name": "Emir Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3804831113,
+   "lat": 37.8860801,
+   "lon": 41.1279866,
+   "tags": {
+    "addr:city": "Batman",
+    "amenity": "car_rental",
+    "name": "Hakan Oto Kiralama",
+    "phone": "+90 532 739 9916"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3832426306,
+   "lat": 37.8871666,
+   "lon": 41.1257433,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Edip Solmaz Bulvarı",
+    "amenity": "car_rental",
+    "name": "Alp Rent A Car",
+    "phone": "+90 545 498 9020"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3832426325,
+   "lat": 37.8941034,
+   "lon": 41.1389514,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Mimar Sinan Cd",
+    "amenity": "car_rental",
+    "name": "Yetkin Rent A Car",
+    "phone": "+90 537 996 9215"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3866819144,
+   "lat": 37.8874367,
+   "lon": 41.1401146,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Barış Bulvarı",
+    "amenity": "car_rental",
+    "name": "Rotin Rent A Car",
+    "phone": "+90 488 213 7449"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3895668493,
+   "lat": 37.9010489,
+   "lon": 41.1275283,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "24",
+    "addr:neighbourhood": "Kültür Mah.",
+    "addr:street": "Av. Zekeriya Aydın Caddesi",
+    "amenity": "car_rental",
+    "name": "Zeplin Car",
+    "operator": "Zeplin",
+    "phone": "+90 488 213 9757"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3908882416,
+   "lat": 37.9016908,
+   "lon": 41.1440579,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Türkiye Petrolleri A.O. Bulvarı",
+    "amenity": "car_rental",
+    "name": "Numan Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3957676105,
+   "lat": 37.8811273,
+   "lon": 41.1273163,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Çift-Kar Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3993347139,
+   "lat": 37.8839051,
+   "lon": 41.1347271,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Milli Egemenlik Bulvarı",
+    "amenity": "car_rental",
+    "name": "Çarşı Rent A Car",
+    "phone": "+90 545 727 2572"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3993347147,
+   "lat": 37.887126,
+   "lon": 41.1350214,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Ahmet Arif Bulvarı",
+    "amenity": "car_rental",
+    "name": "Miran Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4047529574,
+   "lat": 37.9104101,
+   "lon": 41.1396783,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:street": "Fırat Caddesi",
+    "amenity": "car_rental",
+    "name": "Kartal Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4048425568,
+   "lat": 37.88717,
+   "lon": 41.1290237,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "İmza Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4118204602,
+   "lat": 37.8993133,
+   "lon": 41.1284685,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "11/C",
+    "addr:neighbourhood": "Kültür Mah.",
+    "addr:street": "2619. Sokak",
+    "amenity": "car_rental",
+    "name": "Merkez Oto Kiralama",
+    "phone": "+90 488 215 0096"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4118204603,
+   "lat": 37.9006686,
+   "lon": 41.1282888,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:neighbourhood": "Kültür Mah.",
+    "addr:street": "2608. Sokak",
+    "amenity": "car_rental",
+    "name": "Can Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4208420196,
+   "lat": 37.8807248,
+   "lon": 41.1267756,
+   "tags": {
+    "addr:street": "Cumhuriyet Bulvarı",
+    "amenity": "car_rental",
+    "name": "özdemir Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4284267990,
+   "lat": 37.9023474,
+   "lon": 41.1240364,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "23/E",
+    "addr:neighbourhood": "Kültür Mah.",
+    "addr:street": "Mezopotamya Caddesi",
+    "amenity": "car_rental",
+    "name": "Oğuzhan Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4402927689,
+   "lat": 37.8852581,
+   "lon": 41.1271817,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Lider Oto Kiralama",
+    "phone": "+90 544 258 0026"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4456568392,
+   "lat": 37.8980046,
+   "lon": 41.1291858,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "9",
+    "addr:neighbourhood": "Kültür Mah.",
+    "addr:street": "2609. Sokak",
+    "amenity": "car_rental",
+    "name": "Nazar Rent A Car",
+    "phone": "+90 542 572 9172"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4487248135,
+   "lat": 37.8703638,
+   "lon": 41.1177982,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:neighbourhood": "Karşıyaka Mah.",
+    "addr:street": "Petrol Caddesi",
+    "amenity": "car_rental",
+    "name": "Sevim Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4496838689,
+   "lat": 37.8824639,
+   "lon": 41.1288246,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "8/B",
+    "addr:neighbourhood": "Şirinevler Mah.",
+    "addr:street": "1405. Sokak",
+    "amenity": "car_rental",
+    "name": "Adres Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4584008891,
+   "lat": 37.8966807,
+   "lon": 41.1232459,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Berat Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4880341025,
+   "lat": 37.8971662,
+   "lon": 41.1317855,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Seyyar Rent A Car",
+    "phone": "+90 544 692 0272"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4936069222,
+   "lat": 37.8963715,
+   "lon": 41.1219557,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "182/A",
+    "addr:neighbourhood": "Kültür Mah.",
+    "addr:street": "Kıbrıs Şehitleri Bulvarı",
+    "amenity": "car_rental",
+    "name": "Bulut Rent A Car",
+    "phone": "+90 543 223 4772"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5075337824,
+   "lat": 37.9040375,
+   "lon": 41.134446,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "72/A",
+    "addr:neighbourhood": "Gap Mah.",
+    "addr:street": "Şehit Fethi Sekin Sokak",
+    "amenity": "car_rental",
+    "name": "Cadde Rent A Car",
+    "phone": "+90 542 287 1634"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5302186224,
+   "lat": 37.8819259,
+   "lon": 41.1269929,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Botan Rent A Car",
+    "phone": "+90 545 272 7120"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5310829921,
+   "lat": 37.8992517,
+   "lon": 41.1250868,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Jiyan Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5338948321,
+   "lat": 37.8829937,
+   "lon": 41.1326268,
+   "tags": {
+    "addr:street": "Milli Egemenlik Bulvarı",
+    "amenity": "car_rental",
+    "name": "Keskin Rent A Car",
+    "phone": "+90 552 226 3772"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5352527422,
+   "lat": 37.9031644,
+   "lon": 41.1338184,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Bilen Rent A Car",
+    "phone": "+90 544 665 6630"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5352531021,
+   "lat": 37.9030194,
+   "lon": 41.1345581,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "İkizler Oto Kiralama",
+    "phone": "+90 544 544 84 72"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6126632585,
+   "lat": 37.9050588,
+   "lon": 41.137154,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "71/A",
+    "addr:neighbourhood": "Belde Mah.",
+    "addr:street": "Ömer Muhar Bulvarı",
+    "amenity": "car_rental",
+    "name": "Riva Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6402071285,
+   "lat": 37.8966747,
+   "lon": 41.1316744,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Es Rent A Car",
+    "phone": "+90 542 848 0660"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6497534055,
+   "lat": 37.9009135,
+   "lon": 41.127956,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7121639386,
+   "lat": 37.8899407,
+   "lon": 41.1424501,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kendal Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7606491085,
+   "lat": 37.9006086,
+   "lon": 41.1446947,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Arma Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7649679961,
+   "lat": 37.8804389,
+   "lon": 41.1265834,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:neighbourhood": "Akyürek Mah.",
+    "addr:street": "Cumhuriyet Bulvarı",
+    "amenity": "car_rental",
+    "name": "Özdemir Rent A Car",
+    "phone": "+90 541 835 7242"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7884741800,
+   "lat": 37.8972804,
+   "lon": 41.1282752,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Class Rent A Car",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8171438329,
+   "lat": 37.9002579,
+   "lon": 41.1254028,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kılıç Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8589506317,
+   "lat": 37.9059678,
+   "lon": 41.1325798,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Central Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8617034017,
+   "lat": 37.885978,
+   "lon": 41.12857,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "brand:wikipedia": "en:Europcar",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8878023417,
+   "lat": 37.8902513,
+   "lon": 41.1299222,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Otomax Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9013084230,
+   "lat": 37.9022493,
+   "lon": 41.1321262,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:neighbourhood": "Gap Mah.",
+    "addr:street": "2515. Sokak",
+    "amenity": "car_rental",
+    "name": "Kılıç Rent A Car",
+    "phone": "+90 533 656 0759"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9197142401,
+   "lat": 37.9126052,
+   "lon": 41.1358048,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ceylan Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9967938018,
+   "lat": 37.8900355,
+   "lon": 41.1313234,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yılmaz Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11035374205,
+   "lat": 37.946461,
+   "lon": 41.1209768,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "name": "Avis",
+    "official_name": "Avis Car Rental",
+    "phone": "+90 488 207 1614"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11035374405,
+   "lat": 37.9464344,
+   "lon": 41.1208928,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Emir Oto Kiralama",
+    "phone": "+90 488 218 0372"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11035398205,
+   "lat": 37.9464786,
+   "lon": 41.1210522,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "GarentaDAY",
+    "brand:wikidata": "Q106801676",
+    "name": "GarentaDAY"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12645025901,
+   "lat": 37.8912293,
+   "lon": 41.1265155,
+   "tags": {
+    "addr:city": "Batman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "6/A",
+    "addr:neighbourhood": "Ziyagökalp Mah.",
+    "addr:street": "1711. Sokak",
+    "amenity": "car_rental",
+    "name": "Ceylan Rent A Car",
+    "phone": "+90 544 221 63 36"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13821608002,
+   "lat": 37.8937805,
+   "lon": 41.1238383,
+   "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "2224. Sokak",
+    "amenity": "car_rental",
+    "name": "MRT Renta Car",
+    "phone": "+90 532 166 8639"
+   }
+  }
+ ]
+}

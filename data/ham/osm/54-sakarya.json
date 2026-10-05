@@ -1,0 +1,45 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 6244248986,
+   "lat": 40.8294722,
+   "lon": 30.5421609,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Baz"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7713403030,
+   "lat": 41.0944882,
+   "lon": 30.6895503,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Mert Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8414244615,
+   "lat": 41.0948508,
+   "lon": 30.6880573,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "City Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10805328939,
+   "lat": 40.69101,
+   "lon": 30.2294591,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Foma"
+   }
+  }
+ ]
+}

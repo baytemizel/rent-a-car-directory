@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 6726103890,
+   "lat": 40.6568603,
+   "lon": 29.2515501,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yalova Zeplin Rent a Car"
+   }
+  }
+ ]
+}

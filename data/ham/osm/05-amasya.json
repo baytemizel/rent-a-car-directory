@@ -1,0 +1,43 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "way",
+   "id": 1346182671,
+   "center": {
+    "lat": 40.6438429,
+    "lon": 35.8086034
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "crane:rental": "*",
+    "landuse": "industrial",
+    "name": "Vinç Kiralama",
+    "shop": "rental"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1408876824,
+   "center": {
+    "lat": 40.6679194,
+    "lon": 35.8417453
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "name": "05 Otomotiv"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1408876825,
+   "center": {
+    "lat": 40.6678509,
+    "lon": 35.8416607
+   },
+   "tags": {
+    "amenity": "car_rental"
+   }
+  }
+ ]
+}

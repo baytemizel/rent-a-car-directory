@@ -1,0 +1,35 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 10130646018,
+   "lat": 39.961366,
+   "lon": 41.1787457,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Erzurum Havalimanı Araç Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10130646019,
+   "lat": 39.9613736,
+   "lon": 41.1789815,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Nissa Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10130646020,
+   "lat": 39.9613855,
+   "lon": 41.1792203,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Vivi Erzurum Araç Kiralama"
+   }
+  }
+ ]
+}

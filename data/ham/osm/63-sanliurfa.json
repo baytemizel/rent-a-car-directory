@@ -1,0 +1,16 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 12161955700,
+   "lat": 37.164637,
+   "lon": 38.8074545,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Europcar",
+    "phone": "+905443672978"
+   }
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 11368306790,
+   "lat": 41.3896335,
+   "lon": 33.7840344,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Umut Rent-a-car"
+   }
+  }
+ ]
+}

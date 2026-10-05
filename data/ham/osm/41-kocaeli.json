@@ -1,0 +1,137 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4573290850,
+   "lat": 40.7985327,
+   "lon": 29.4388958,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Gebze Birlik Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5254672178,
+   "lat": 40.7616353,
+   "lon": 29.3843047,
+   "tags": {
+    "name": "Tarhanlar Grup *İnşaat *Gayrimenkul *Rent a Car",
+    "office": "company"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5294058859,
+   "lat": 40.7827639,
+   "lon": 29.373873,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Üçler Darıca oto araç kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5294175809,
+   "lat": 40.7755212,
+   "lon": 29.3781106,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "İSTCAR RENTA CAR"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5296448367,
+   "lat": 40.7804267,
+   "lon": 29.3867386,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Akkurtlar Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9965933627,
+   "lat": 40.7625578,
+   "lon": 29.9360874,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yağmur Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10713155735,
+   "lat": 40.7533676,
+   "lon": 29.9547095,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "GarentaDAY",
+    "brand:wikidata": "Q106801676",
+    "name": "GarentaDAY"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10834484418,
+   "lat": 40.7626432,
+   "lon": 29.9338467,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Palaoğlu Rent a Car",
+    "phone": "+90 262 322 64 22",
+    "phone:mobile": "+90 532 495 85 92",
+    "website": "https://www.palaoglurentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10834484421,
+   "lat": 40.7626257,
+   "lon": 29.9337088,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Gönenç Oto Kiralama",
+    "phone": "+90 541 631 37 51",
+    "phone_1": "0533 946 77 97"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10914321534,
+   "lat": 40.7991941,
+   "lon": 29.439972,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Toprak Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156153535,
+   "lat": 40.7652668,
+   "lon": 29.8428098,
+   "tags": {
+    "addr:city": "KOCAELİ",
+    "addr:district": "DERİNCE",
+    "addr:neighbourhood": "ÇINARLI",
+    "addr:postcode": "41900",
+    "addr:street": "ÖNDER CADDESİ",
+    "amenity": "car_rental",
+    "name": "S&U RENT A CAR"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12091636729,
+   "lat": 40.7558634,
+   "lon": 29.8261114,
+   "tags": {
+    "name": "KANBUR Rent A Car",
+    "shop": "car"
+   }
+  }
+ ]
+}

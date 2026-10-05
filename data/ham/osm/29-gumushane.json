@@ -1,0 +1,26 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3803406566,
+   "lat": 40.4575498,
+   "lon": 39.4808579,
+   "tags": {
+    "addr:city": "Gümüşhane",
+    "amenity": "car_rental",
+    "name": "Hira Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3803406643,
+   "lat": 40.4577904,
+   "lon": 39.483238,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Elit Rent A Car"
+   }
+  }
+ ]
+}

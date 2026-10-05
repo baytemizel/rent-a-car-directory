@@ -1,0 +1,16 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4840438085,
+   "lat": 39.8320252,
+   "lon": 26.0652351,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Güney Oto Kiralama",
+    "phone": "+905332186070"
+   }
+  }
+ ]
+}

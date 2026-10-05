@@ -1,0 +1,30 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 8997393022,
+   "lat": 41.7351091,
+   "lon": 27.2266381,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12738890601,
+   "lat": 41.4135419,
+   "lon": 27.3546784,
+   "tags": {
+    "addr:housenumber": "27",
+    "addr:postcode": "39750",
+    "addr:street": "Değirmen Caddesi",
+    "amenity": "car_rental",
+    "name": "Mekan39 Yol Yardım Oto Kurtarıcı Hizmetleri",
+    "opening_hours": "24/7",
+    "phone": "+90 553 085 62 08"
+   }
+  }
+ ]
+}

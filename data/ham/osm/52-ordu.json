@@ -1,0 +1,55 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 7185081295,
+   "lat": 40.9808521,
+   "lon": 37.8908337,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8285089073,
+   "lat": 40.9822445,
+   "lon": 37.8878369,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Budget",
+    "brand:wikidata": "Q1001437",
+    "brand:wikipedia": "en:Budget Rent a Car",
+    "name": "Budget",
+    "official_name": "Budget Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8535325717,
+   "lat": 40.9831947,
+   "lon": 37.8850766,
+   "tags": {
+    "name": "Ceyhun Rent a Car Ordu Merkez Ofisi",
+    "office": "company",
+    "phone": "4447794",
+    "website": "https://www.ceyhunrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8535481717,
+   "lat": 40.9829641,
+   "lon": 37.8854588,
+   "tags": {
+    "name": "Blue rent a car",
+    "office": "company",
+    "phone": "+90 533 131 14 80"
+   }
+  }
+ ]
+}

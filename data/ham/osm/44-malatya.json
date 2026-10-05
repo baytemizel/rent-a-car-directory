@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4905920222,
+   "lat": 38.343469,
+   "lon": 38.3235897,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kernek Rent A Car"
+   }
+  }
+ ]
+}

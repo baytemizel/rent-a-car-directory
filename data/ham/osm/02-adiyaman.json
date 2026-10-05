@@ -1,0 +1,45 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 5002965327,
+   "lat": 37.7632327,
+   "lon": 38.2815147,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "İlkay Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5002965328,
+   "lat": 37.7638043,
+   "lon": 38.2808922,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Görkem Rent A Car",
+    "name:tr": "Görkem Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8948420134,
+   "lat": 37.7631555,
+   "lon": 38.2824182,
+   "tags": {
+    "addr:city": "Adıyaman",
+    "addr:district": "Merkez",
+    "addr:housenumber": "260/1",
+    "addr:neighbourhood": "Sıratut mahallesi",
+    "addr:postcode": "02000",
+    "addr:street": "Atatürk Bulvarı Yanyolu",
+    "amenity": "car_rental",
+    "name": "İzoloğlu Otomotiv",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "payment:cash": "yes",
+    "website": "https://adiyamanarackiralama.com/"
+   }
+  }
+ ]
+}

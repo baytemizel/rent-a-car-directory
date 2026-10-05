@@ -1,0 +1,16 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 9366616205,
+   "lat": 38.366493,
+   "lon": 34.0252971,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Gökgöz Rent A Car",
+    "website": "http://www.gokgozrentacar.com/"
+   }
+  }
+ ]
+}

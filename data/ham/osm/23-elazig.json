@@ -1,0 +1,22 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4489928676,
+   "lat": 38.680656,
+   "lon": 39.220309,
+   "tags": {
+    "addr:city": "Elazığ/Türkiye",
+    "addr:housenumber": "71/A",
+    "addr:postcode": "23200",
+    "addr:street": "Şehit İlhanlar Caddesi",
+    "amenity": "car_rental",
+    "name": "Elazığ Mert Oto Kiralama",
+    "name:en": "Elazig Rent A Car",
+    "phone": "+90 539 712 46 07",
+    "website": "https://elazigmertotokiralama.com/"
+   }
+  }
+ ]
+}

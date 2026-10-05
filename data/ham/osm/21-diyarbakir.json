@@ -1,0 +1,77 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3329659898,
+   "lat": 37.9142953,
+   "lon": 40.198056,
+   "tags": {
+    "addr:city": "Diyarbakır",
+    "addr:street": "Hava Limanı Cd.",
+    "amenity": "car_rental",
+    "name": "Beken Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3744065732,
+   "lat": 37.9226976,
+   "lon": 40.2209292,
+   "tags": {
+    "addr:city": "Yenişehir/Diyarbakır",
+    "addr:street": "Akkoyunlu 1. Sokak",
+    "amenity": "car_rental",
+    "name": "0021 Oto Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4059383727,
+   "lat": 37.9176765,
+   "lon": 40.2187465,
+   "tags": {
+    "addr:street": "Kurt İsmail Paşa 3. Sokak",
+    "amenity": "car_rental",
+    "name": "Sun Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13322606016,
+   "lat": 37.9000765,
+   "lon": 40.1846428,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "SIXT",
+    "brand:wikidata": "Q705664",
+    "name": "SIXT"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13322606017,
+   "lat": 37.9005092,
+   "lon": 40.1842362,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "GarentaDAY",
+    "brand:wikidata": "Q106801676",
+    "name": "GarentaDAY"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13322606018,
+   "lat": 37.9009569,
+   "lon": 40.1847137,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "name": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car"
+   }
+  }
+ ]
+}

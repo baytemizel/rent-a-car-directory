@@ -1,0 +1,346 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4070463194,
+   "lat": 39.9957021,
+   "lon": 32.8105218,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4176031036,
+   "lat": 39.9641316,
+   "lon": 32.8664054,
+   "tags": {
+    "addr:city": "Ankara",
+    "addr:district": "Keçiören",
+    "addr:street": "Ergün Sokak",
+    "amenity": "car_rental",
+    "name": "Mertcan Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4237566060,
+   "lat": 39.9269665,
+   "lon": 32.852622,
+   "tags": {
+    "addr:city": "Çankaya/Ankara",
+    "addr:street": "Cihan Sk.",
+    "amenity": "car_rental",
+    "name": "Atlas Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4353557490,
+   "lat": 39.9947508,
+   "lon": 32.8550046,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Zeplin"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4387484091,
+   "lat": 39.9653065,
+   "lon": 32.8729058,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kalaycı Rent A Car",
+    "name:tr": "Kalaycı Rent A Car",
+    "phone": "+90 312 317 24 44"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4505869970,
+   "lat": 39.9546251,
+   "lon": 32.6316252,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Abone Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5213725127,
+   "lat": 39.9771602,
+   "lon": 32.6271029,
+   "tags": {
+    "addr:street": "1. Meşrutiyet Caddesi",
+    "amenity": "car_rental",
+    "name": "Atakent Taksi Durağı",
+    "name:en": "Atakent Taxi Station",
+    "phone": "+90 312 282 04 05"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5365741247,
+   "lat": 39.798427,
+   "lon": 32.8067623,
+   "tags": {
+    "addr:city": "Ankara",
+    "addr:district": "Gölbaşı",
+    "addr:housenumber": "6/A",
+    "addr:neighbourhood": "Şafak Mahallesi",
+    "addr:postcode": "06830",
+    "addr:street": "853. Sokak",
+    "amenity": "car_rental",
+    "name": "Varlık Vinç"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9415342022,
+   "lat": 39.9556972,
+   "lon": 32.8338986,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "MAK Rent A Car & Emlak"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9415342039,
+   "lat": 39.958065,
+   "lon": 32.8384079,
+   "tags": {
+    "name": "Siyah Beyaz Turizm & Taşımacılık, Araç Kiralama",
+    "shop": "travel_agency"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9818011542,
+   "lat": 39.7946632,
+   "lon": 32.8083902,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "BAHA Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10013620671,
+   "lat": 39.9122273,
+   "lon": 32.8625079,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Aydin"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10892788594,
+   "lat": 39.9610372,
+   "lon": 32.7630707,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11601267772,
+   "lat": 39.9064612,
+   "lon": 32.8593916,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "avec"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12028916890,
+   "lat": 40.0107725,
+   "lon": 32.9033167,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Sar Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12640755903,
+   "lat": 39.96623,
+   "lon": 32.7926276,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "RM Rent a Car",
+    "phone": "+90 312 336 77 00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13059147423,
+   "lat": 39.9530656,
+   "lon": 32.7353941,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Elit Mina Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13416144494,
+   "lat": 39.95262,
+   "lon": 32.6436057,
+   "tags": {
+    "addr:city": "Ankara",
+    "addr:district": "Etimesgut",
+    "addr:housenumber": "182/A",
+    "addr:neighbourhood": "Süvari",
+    "addr:street": "İstasyon Caddesi",
+    "amenity": "car_rental",
+    "branch": "Ankara Etimesgut",
+    "email": "kurumsal@zeplincar.com",
+    "name": "Zeplin Car Rental",
+    "phone": "+90 850 800 01 34",
+    "website": "https://www.zeplincar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13584570301,
+   "lat": 39.8972439,
+   "lon": 32.848879,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2026-02-20",
+    "name": "Transfer Araba Kiralama",
+    "name:en": "Transfer Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13654693724,
+   "lat": 39.9589034,
+   "lon": 32.8170453,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Otocar Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13683020451,
+   "lat": 39.9536345,
+   "lon": 32.6337581,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yıldırım Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13745998802,
+   "lat": 39.7876278,
+   "lon": 32.8061516,
+   "tags": {
+    "addr:street": "319. Cadde",
+    "amenity": "car_rental",
+    "name": "Filo Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13782790689,
+   "lat": 39.9364003,
+   "lon": 32.6366156,
+   "tags": {
+    "amenity": "car_rental",
+    "level": "2",
+    "name": "Şerit Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13811078476,
+   "lat": 39.9425189,
+   "lon": 32.6466215,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "As Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13947804336,
+   "lat": 39.948596,
+   "lon": 32.6621735,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "MSM Motor's Araç Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13947804376,
+   "lat": 39.9473434,
+   "lon": 32.6614023,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ekol Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13970244101,
+   "lat": 39.923237,
+   "lon": 32.8240521,
+   "tags": {
+    "addr:housenumber": "35A",
+    "addr:street": "61. Cadde",
+    "amenity": "car_rental",
+    "name": "Han Rent a Car",
+    "phone": "+90 312 212 1151;+90 532 363 7877"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14046099762,
+   "lat": 39.9453759,
+   "lon": 32.6572996,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "B&B Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14167212267,
+   "lat": 39.9504813,
+   "lon": 32.6537631,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "MT Rent a Car & Emlak"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14167225531,
+   "lat": 39.9501575,
+   "lon": 32.6538207,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Varda Garage"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14192256803,
+   "lat": 39.9201043,
+   "lon": 32.8574341,
+   "tags": {
+    "name": "Akta Car Rental",
+    "shop": "car"
+   }
+  }
+ ]
+}

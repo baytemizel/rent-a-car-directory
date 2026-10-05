@@ -1,0 +1,51 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 1919057287,
+   "lat": 41.3326824,
+   "lon": 36.2727501,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1919057538,
+   "lat": 41.332042,
+   "lon": 36.2724014,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5394479647,
+   "lat": 41.2375576,
+   "lon": 36.5401546,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5394479648,
+   "lat": 41.2386489,
+   "lon": 36.5403958,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10034834053,
+   "lat": 41.2573992,
+   "lon": 36.5543796,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Trio Car Rental"
+   }
+  }
+ ]
+}

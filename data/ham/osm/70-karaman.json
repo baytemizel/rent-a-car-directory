@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 7883401673,
+   "lat": 37.185406,
+   "lon": 33.2154172,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Özgürüm Rent A Car"
+   }
+  }
+ ]
+}

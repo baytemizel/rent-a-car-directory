@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3294513844,
+   "lat": 40.8406174,
+   "lon": 31.1485511,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Seymen Rent A Car"
+   }
+  }
+ ]
+}

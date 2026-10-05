@@ -1,0 +1,38 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3206159355,
+   "lat": 37.8811338,
+   "lon": 32.4901977,
+   "tags": {
+    "addr:city": "Konya",
+    "amenity": "car_rental",
+    "name": "Örnek Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3704159293,
+   "lat": 37.880016,
+   "lon": 32.4923942,
+   "tags": {
+    "addr:city": "Selçuklu/Konya",
+    "addr:street": "Ulaşbaba Caddesi",
+    "amenity": "car_rental",
+    "name": "Tunam Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3904517928,
+   "lat": 37.8802726,
+   "lon": 32.4890907,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Elit 42 Rent A Car"
+   }
+  }
+ ]
+}

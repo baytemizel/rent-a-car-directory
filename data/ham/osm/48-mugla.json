@@ -1,0 +1,572 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 276561902,
+   "lat": 37.0047513,
+   "lon": 27.2585704,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2669710801,
+   "lat": 37.1197903,
+   "lon": 27.2915711,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3144413311,
+   "lat": 37.0824945,
+   "lon": 27.4567967,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Heis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3730451301,
+   "lat": 36.8561012,
+   "lon": 28.2711183,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Seaside Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4181916825,
+   "lat": 37.0364635,
+   "lon": 27.4266489,
+   "tags": {
+    "addr:city": "Bodrum",
+    "addr:housenumber": "66/A",
+    "addr:postcode": "48400",
+    "addr:street": "Neyzen Tevfik Cad.",
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "brand:wikipedia": "en:Avis Car Rental",
+    "name": "Avis",
+    "opening_hours": "Su-Sa 09:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4184991889,
+   "lat": 37.2166583,
+   "lon": 28.3618418,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "önel rent a car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4834814823,
+   "lat": 36.7285693,
+   "lon": 27.6863165,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Poyraz"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4865046121,
+   "lat": 37.037395,
+   "lon": 27.4343862,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Rent a car",
+    "name:ru": "Прокат авто"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4865046122,
+   "lat": 37.0369891,
+   "lon": 27.4255045,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Sun gulets"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4878187921,
+   "lat": 37.0346561,
+   "lon": 27.4058171,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Habeşoğlu",
+    "name:en": "Habesoglu",
+    "name:tr": "Habeşoğlu"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4879004821,
+   "lat": 37.046403,
+   "lon": 27.3460296,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Bumerang"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4899552634,
+   "lat": 37.2299183,
+   "lon": 27.6753431,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Turde Turizm"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4903585713,
+   "lat": 37.2425054,
+   "lon": 27.6765493,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "GarentaDAY",
+    "brand:wikidata": "Q106801676",
+    "name": "GarentaDAY"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4903585714,
+   "lat": 37.2422272,
+   "lon": 27.6777088,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Avis"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5512972297,
+   "lat": 36.8496368,
+   "lon": 28.2542744,
+   "tags": {
+    "addr:city": "Marmaris/Muğla",
+    "addr:country": "TR",
+    "addr:district": "Marmaris",
+    "addr:postcode": "48700",
+    "addr:province": "Muğla",
+    "addr:street": "194. Sokak",
+    "amenity": "car_rental",
+    "fax": "+902524172668",
+    "name": "Marmaris rent a car",
+    "operator": "Kemal",
+    "phone": "+902524172668"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6590600387,
+   "lat": 37.0298663,
+   "lon": 27.4415911,
+   "tags": {
+    "addr:housenumber": "no 128/a",
+    "addr:street": "Atatürk Cad.",
+    "amenity": "car_rental",
+    "email": "senolkesti@hotmail.com",
+    "name": "Bodrum Senol rent a car",
+    "phone": "+905326352968",
+    "website": "http://bodrumsenolrentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6590660785,
+   "lat": 37.0487732,
+   "lon": 27.3980116,
+   "tags": {
+    "addr:housenumber": "no 10",
+    "addr:postcode": "48400",
+    "addr:street": "Alpaslan Türkeş Bulvarı",
+    "amenity": "car_rental",
+    "name": "Egeria Rent a car",
+    "phone": "+902523193153",
+    "website": "http://egeriarentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6616137985,
+   "lat": 37.036858,
+   "lon": 27.4094056,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "48400",
+    "addr:street": "Eskicesme Mahallesi Sadi Irmak caddesi 27/A",
+    "amenity": "car_rental",
+    "name": "Force rent a car",
+    "phone": "+90 282 319 71 92",
+    "website": "https://bodrumrenta-car.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6869349786,
+   "lat": 36.7067741,
+   "lon": 29.1714184,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7930696085,
+   "lat": 36.5738927,
+   "lon": 29.1366453,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Smart Rent"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7966821085,
+   "lat": 36.8541426,
+   "lon": 28.2655614,
+   "tags": {
+    "addr:housenumber": "37/Z-2",
+    "addr:street": "Orgeneral Mustafa Muğlalı Caddesi",
+    "amenity": "car_rental",
+    "name:en": "BURAK RENT A CAR",
+    "name:ru": "BURAK прокат авто",
+    "phone": "+90 252 412 71 06"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8003111386,
+   "lat": 36.8521354,
+   "lon": 28.2526723,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Elite",
+    "opening_hours": "Mo-Su 09:30-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8087033017,
+   "lat": 37.242906,
+   "lon": 27.6724959,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "GOLDCAR"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8603222317,
+   "lat": 36.6630041,
+   "lon": 29.1308267,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Ella. Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8905013017,
+   "lat": 36.8555279,
+   "lon": 28.2542695,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Auto Centr",
+    "phone": "+90 252 417 79 19"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8913528829,
+   "lat": 36.8440239,
+   "lon": 28.2528517,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "name": "Avis",
+    "name:en": "Avis",
+    "name:ru": "Авис",
+    "official_name": "Avis Car Rental",
+    "phone": "+90 549 447 80 90"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9106148815,
+   "lat": 36.8558919,
+   "lon": 28.2719443,
+   "tags": {
+    "amenity": "car_rental",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9633066523,
+   "lat": 36.6211771,
+   "lon": 29.1068286,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-10-27",
+    "name": "Abalı Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9772999869,
+   "lat": 36.6560292,
+   "lon": 29.1221487,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2022-05-26",
+    "level": "0",
+    "name": "Likya car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10124044392,
+   "lat": 36.7969068,
+   "lon": 28.2253788,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2022-10-23",
+    "name": "Garden rent a car",
+    "phone": "+905362286059"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10135155812,
+   "lat": 36.8421671,
+   "lon": 28.2503164,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Aegean Car Rental",
+    "office": "guide"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10189317155,
+   "lat": 36.619762,
+   "lon": 29.1329386,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "name": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10189317156,
+   "lat": 36.6216019,
+   "lon": 29.1329785,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Budget",
+    "brand:wikidata": "Q1001437",
+    "name": "Budget",
+    "official_name": "Budget Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10224606467,
+   "lat": 36.8534695,
+   "lon": 28.2697199,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Mst Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10253851954,
+   "lat": 36.6248676,
+   "lon": 29.1325186,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-03-03",
+    "level": "0",
+    "name": "Oscar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10575081559,
+   "lat": 36.6222853,
+   "lon": 29.1038413,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "check_date": "2025-01-02",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10671867040,
+   "lat": 36.6223054,
+   "lon": 29.1204177,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10699781085,
+   "lat": 36.6220355,
+   "lon": 29.1091309,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "check_date": "2023-02-28",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11241215726,
+   "lat": 37.0358258,
+   "lon": 27.4148602,
+   "tags": {
+    "amenity": "car_rental",
+    "contact:website": "https://www.rentgo.com",
+    "name": "Rent Go"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11432911947,
+   "lat": 36.6236357,
+   "lon": 29.1331464,
+   "tags": {
+    "addr:city": "Muğla",
+    "addr:district": "Fethiye",
+    "addr:housenumber": "13",
+    "addr:neighbourhood": "Taşyaka",
+    "addr:postcode": "48300",
+    "addr:street": "255. Sokak",
+    "amenity": "car_rental",
+    "description": "Turunç Rent a Car, Fethiye'de araç kiralama konusunda öncü bir firma. Geniş araç seçenekleri, hızlı rezervasyon, net fiyatlandırma ve sürekli müşteri desteği ile güvenilir bir seyahat deneyimi sunar.",
+    "name": "Fethiye Turunç Car Rental",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "payment:app": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+908503044448",
+    "website": "https://rentalfethiye.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13197445981,
+   "lat": 36.837956,
+   "lon": 28.7652641,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Erbay Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13335987101,
+   "lat": 36.7245404,
+   "lon": 27.6824466,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Tuana Rent a Car",
+    "phone": "+905074926383",
+    "website": "http://tuanarentacardatca.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13979964135,
+   "lat": 36.6208421,
+   "lon": 29.1155814,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2026-07-01",
+    "name": "Oscar"
+   }
+  },
+  {
+   "type": "way",
+   "id": 498578310,
+   "center": {
+    "lat": 37.2279656,
+    "lon": 27.689366
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "landuse": "retail",
+    "name": "Proper Car Rental Milas Bodrum Airport"
+   }
+  },
+  {
+   "type": "way",
+   "id": 498578316,
+   "center": {
+    "lat": 37.2278075,
+    "lon": 27.6917855
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "building": "yes",
+    "name": "Euroauto"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1134934265,
+   "center": {
+    "lat": 36.6311915,
+    "lon": 29.1313759
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "building:levels": "2",
+    "height": "6",
+    "name": "OSCAR"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1395528673,
+   "center": {
+    "lat": 37.2438043,
+    "lon": 27.6709743
+   },
+   "tags": {
+    "amenity": "car_rental"
+   }
+  }
+ ]
+}

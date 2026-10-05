@@ -1,0 +1,24 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4420674989,
+   "lat": 41.2756194,
+   "lon": 31.4273964,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "67300",
+    "addr:street": "Meydanbaşı Caddesi",
+    "amenity": "car_rental",
+    "email": "site2000f1@hotmail.com",
+    "internet_access": "wlan",
+    "name": "Cinar otomotiv ltd sti",
+    "name:tr": "Cinar otomotiv ltd sti",
+    "opening_hours": "Mo-Sa 09:00-07:00",
+    "operator": "aziz cinar",
+    "phone": "+90 532 214 79 04"
+   }
+  }
+ ]
+}

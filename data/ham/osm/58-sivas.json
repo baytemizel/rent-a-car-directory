@@ -1,0 +1,37 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4543268073,
+   "lat": 39.7477596,
+   "lon": 37.0111975,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Car mobil",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4546071151,
+   "lat": 39.751928,
+   "lon": 37.0165504,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Force rent a car",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12918179535,
+   "lat": 39.7434717,
+   "lon": 37.0096209,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Blue World Oto Kiralama"
+   }
+  }
+ ]
+}

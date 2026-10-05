@@ -1,0 +1,136 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 6817217022,
+   "lat": 40.9980916,
+   "lon": 39.7581217,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yalçın"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7259003692,
+   "lat": 40.9940341,
+   "lon": 39.7822994,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "By Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7485870106,
+   "lat": 40.9939528,
+   "lon": 39.7790288,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Nehir Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7485870115,
+   "lat": 40.9940548,
+   "lon": 39.7788218,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10032127583,
+   "lat": 40.99502,
+   "lon": 39.7794854,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rent Go Trabzon Havalimanı"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10032127597,
+   "lat": 40.9941631,
+   "lon": 39.7818655,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Koçmak Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10032128969,
+   "lat": 40.992115,
+   "lon": 39.787215,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Avec Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10032128970,
+   "lat": 40.9921288,
+   "lon": 39.785934,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Namlı Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10032128975,
+   "lat": 40.9920697,
+   "lon": 39.7867454,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Right Cars Trabzon"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10033993031,
+   "lat": 40.9684424,
+   "lon": 39.8399166,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11775627504,
+   "lat": 41.0064014,
+   "lon": 39.7300862,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-03-31",
+    "name": "Gazipaşa Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11775627505,
+   "lat": 41.0063736,
+   "lon": 39.7300834,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-03-31",
+    "name": "Rent Go"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11775627506,
+   "lat": 41.0063067,
+   "lon": 39.7300751,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-03-31",
+    "name": "TS Car Rental"
+   }
+  }
+ ]
+}

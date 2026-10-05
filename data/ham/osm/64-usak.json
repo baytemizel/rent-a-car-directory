@@ -1,0 +1,75 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4851263768,
+   "lat": 38.6712317,
+   "lon": 29.4080348,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "AyCar Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4851264269,
+   "lat": 38.6711815,
+   "lon": 29.4082759,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Aga Rent a Car-Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4851267227,
+   "lat": 38.6714121,
+   "lon": 29.4077166,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Göbelez Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4851267634,
+   "lat": 38.6714376,
+   "lon": 29.4078908,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Taşkın Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4851267665,
+   "lat": 38.6712645,
+   "lon": 29.4079579,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Tan Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4851280335,
+   "lat": 38.6714029,
+   "lon": 29.407597,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Doğanlar Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13702139701,
+   "lat": 38.6713923,
+   "lon": 29.4074812,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Atak Oto Kiralama"
+   }
+  }
+ ]
+}

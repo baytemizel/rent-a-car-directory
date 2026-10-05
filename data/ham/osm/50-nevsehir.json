@@ -1,0 +1,55 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 9532488417,
+   "lat": 38.6455623,
+   "lon": 34.8321706,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "sunset rent a car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11277142769,
+   "lat": 38.6460602,
+   "lon": 34.8196324,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rose Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13093070259,
+   "lat": 38.6159903,
+   "lon": 34.701629,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ulu Altan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13104273431,
+   "lat": 38.6205944,
+   "lon": 34.7075862,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Hizmet Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13104273458,
+   "lat": 38.6185711,
+   "lon": 34.7061861,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Tulpar Rent A Car"
+   }
+  }
+ ]
+}

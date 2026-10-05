@@ -1,0 +1,252 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4375010288,
+   "lat": 41.1708554,
+   "lon": 27.4941852,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Erdem Oto Kiralama",
+    "phone": "+905366631803;+902823618201"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4691667347,
+   "lat": 41.1581345,
+   "lon": 27.8073997,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "DUF Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4700564740,
+   "lat": 41.3266981,
+   "lon": 27.9755705,
+   "tags": {
+    "addr:city": "Kapaklı",
+    "addr:country": "TR",
+    "addr:postcode": "59510",
+    "addr:province": "Tekirdağ",
+    "addr:street": "Kazım Karabekir Caddesi",
+    "amenity": "car_rental",
+    "brand": "Arabacıoğlu Otomotiv",
+    "name": "Arabacıoğlu Otomotiv",
+    "phone": "+905426395959"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5102223608,
+   "lat": 41.2852794,
+   "lon": 27.998334,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Çerkezköy Kafkas Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5546298623,
+   "lat": 41.2844832,
+   "lon": 28.0012549,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "A&K Rent A Car Oto Kiralama",
+    "phone": "+905053975727"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5549080192,
+   "lat": 41.3257951,
+   "lon": 27.9780695,
+   "tags": {
+    "name": "Trakya Emlak Rent A Car",
+    "shop": "estate_agent"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6329890591,
+   "lat": 41.2924323,
+   "lon": 27.9975512,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Tapancı Otomotiv Oto Kiralama",
+    "phone": "+905321540599"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6329890596,
+   "lat": 41.2922754,
+   "lon": 27.9960616,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Aksoy Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7791945612,
+   "lat": 41.3221864,
+   "lon": 27.9829749,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Has Barin Rent A Car",
+    "phone": "+905312705925;+905377661974"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7795050274,
+   "lat": 41.2837831,
+   "lon": 28.0005344,
+   "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Atatürk Caddesi",
+    "amenity": "car_rental",
+    "name": "Trakya Oto Kiralama Rent A Car",
+    "phone": "+905437454306"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7814350508,
+   "lat": 41.3276304,
+   "lon": 27.9810249,
+   "tags": {
+    "addr:street": "Ezgi Sokak",
+    "amenity": "car_rental",
+    "name": "Fırtına Rent A Car Emlak",
+    "phone": "+905374328419"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8960567513,
+   "lat": 41.3288153,
+   "lon": 27.9734349,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Doruk Oto Kiralama",
+    "phone": "+905448606291"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9950184756,
+   "lat": 41.2725331,
+   "lon": 28.0090442,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Er Car Oto Kiralama",
+    "phone": "+905441171965"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11298097674,
+   "lat": 41.1770862,
+   "lon": 27.4967018,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Akyıldız Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11831463160,
+   "lat": 41.1616022,
+   "lon": 27.7930488,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12528204344,
+   "lat": 41.3308693,
+   "lon": 27.971508,
+   "tags": {
+    "addr:city": "Kapaklı",
+    "addr:country": "TR",
+    "addr:district": "Kapaklı",
+    "addr:housenumber": "124-126A",
+    "addr:postcode": "59510",
+    "addr:province": "Tekirdağ",
+    "addr:street": "Pınar Bulvarı",
+    "addr:subdistrict": "Atatürk Mahallesi",
+    "amenity": "car_rental",
+    "name": "World Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12532072346,
+   "lat": 41.3328554,
+   "lon": 27.9761239,
+   "tags": {
+    "addr:city": "Kapaklı",
+    "addr:country": "TR",
+    "addr:district": "Kapaklı",
+    "addr:housenumber": "18A",
+    "addr:postcode": "59510",
+    "addr:province": "Tekirdağ",
+    "addr:street": "Dubaz Sokak",
+    "addr:subdistrict": "Atatürk Mahallesi",
+    "amenity": "car_rental",
+    "name": "MS Car Emlak Rent A Car",
+    "phone": "+905414593137"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12532072496,
+   "lat": 41.3322096,
+   "lon": 27.9731313,
+   "tags": {
+    "addr:city": "Kapaklı",
+    "addr:country": "TR",
+    "addr:district": "Kapaklı",
+    "addr:housenumber": "19B",
+    "addr:postcode": "59510",
+    "addr:province": "Tekirdağ",
+    "addr:street": "İstiklal Caddesi",
+    "addr:subdistrict": "Atatürk Mahallesi",
+    "amenity": "car_rental",
+    "name": "Atlas Auto Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13055199418,
+   "lat": 41.2891243,
+   "lon": 27.9975158,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Baltacı Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13588782322,
+   "lat": 41.3275795,
+   "lon": 27.9749986,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rent A Car Otomotiv Gayrimenkul",
+    "phone": "+905394235606"
+   }
+  }
+ ]
+}

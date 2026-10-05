@@ -1,0 +1,17 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4411473298,
+   "lat": 37.0604115,
+   "lon": 37.3644243,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "TAKSİ ÖCRET 🚖",
+    "name:ar": "تكسي منزلي 🚖",
+    "name:tr": "TAKSİ ÖCRET 🚖"
+   }
+  }
+ ]
+}

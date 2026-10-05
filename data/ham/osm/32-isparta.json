@@ -1,0 +1,15 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 9800891802,
+   "lat": 37.8128556,
+   "lon": 30.534095,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yağızlar Filo"
+   }
+  }
+ ]
+}

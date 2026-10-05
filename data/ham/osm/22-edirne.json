@@ -1,0 +1,32 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 14053775807,
+   "lat": 41.6668533,
+   "lon": 26.5712437,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Garenta",
+    "level": "-2",
+    "name": "Garenta",
+    "phone": "+90 536 451 92 30",
+    "website": "https://www.garenta.com/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 463128459,
+   "center": {
+    "lat": 40.8688326,
+    "lon": 26.6271772
+   },
+   "tags": {
+    "addr:street": "İspat Cami Mahallesi, efes bulvarsı, galericiler sitesi No:24",
+    "description": "Keşan Araç Kiralama Ofisi",
+    "name": "Keşan Araç Kiralama"
+   }
+  }
+ ]
+}

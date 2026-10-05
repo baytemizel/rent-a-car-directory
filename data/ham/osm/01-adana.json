@@ -1,0 +1,49 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3324646260,
+   "lat": 37.0077992,
+   "lon": 35.3743498,
+   "tags": {
+    "addr:city": "adana",
+    "addr:housenumber": "01000",
+    "addr:postcode": "01000",
+    "addr:street": "Adana-Kayseri yolu",
+    "name": "Adana Oto Kiralama",
+    "website": "https://adanaotokiralama.com.tr/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6854671585,
+   "lat": 37.0506297,
+   "lon": 35.2607296,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kaymaz Otomotiv"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8435887918,
+   "lat": 37.0587554,
+   "lon": 35.3638556,
+   "tags": {
+    "amenity": "car_rental",
+    "internet_access": "wlan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8957916120,
+   "lat": 36.9834743,
+   "lon": 35.2964176,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Swiss"
+   }
+  }
+ ]
+}

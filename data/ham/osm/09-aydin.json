@@ -1,0 +1,21 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 6854092820,
+   "lat": 37.8424754,
+   "lon": 27.8409945,
+   "tags": {
+    "addr:city": "Aydın",
+    "addr:district": "Efeler",
+    "addr:housenumber": "11",
+    "addr:neighbourhood": "Kurtuluş Mahallesi",
+    "addr:street": "Kıbrıs Caddesi",
+    "amenity": "car_rental",
+    "name": "Ersan Rent a Car Aydın Araba Kiralama",
+    "operator": "Ersan Rent a Car"
+   }
+  }
+ ]
+}

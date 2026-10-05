@@ -1,0 +1,31 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 10224694951,
+   "lat": 38.6266223,
+   "lon": 27.4362585,
+   "tags": {
+    "amenity": "car_rental",
+    "description": "Kurumsal Araç Kiralama Hizmeti",
+    "name": "Myros Rent a Car",
+    "start_date": "2022-02-15",
+    "website": "https://myrosrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13444409568,
+   "lat": 38.6160405,
+   "lon": 27.3970363,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "name": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car"
+   }
+  }
+ ]
+}

@@ -1,5 +1,7 @@
 # Van (65) — Rent a Car Firmaları
 
-Toplam **0** kayıt. Kaynak: OpenStreetMap (ODbL) ve elle doğrulanmış kayıtlar (`data/manuel.csv`).
+Toplam **1** kayıt. Kaynak: OpenStreetMap (ODbL) ve elle doğrulanmış kayıtlar (`data/manuel.csv`).
 
-_Bu il için henüz kayıt yok. Tarama çalıştırın veya `data/manuel.csv` dosyasına ekleyin._
+| # | Firma | Yetkili | Telefon | Website | E-posta | İlçe | Adres | Kaynak |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Enterprise |  |  |  |  |  |  | [OSM](https://www.openstreetmap.org/node/13342576901) |

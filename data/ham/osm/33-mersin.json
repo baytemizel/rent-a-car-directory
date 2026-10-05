@@ -1,0 +1,49 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3798523550,
+   "lat": 36.9116575,
+   "lon": 34.8853024,
+   "tags": {
+    "addr:city": "Tarsus/Mersin",
+    "amenity": "car_rental",
+    "name": "Ayaz Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5313792333,
+   "lat": 36.3805773,
+   "lon": 33.9379052,
+   "tags": {
+    "addr:street": "Göksu Mahallesi",
+    "amenity": "car_rental",
+    "internet_access": "wlan",
+    "name": "Aydın Otomativ",
+    "opening_hours": "Mo-Su 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7887119980,
+   "lat": 36.6057887,
+   "lon": 34.3143466,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Red Car Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7900253109,
+   "lat": 36.7937323,
+   "lon": 34.6135892,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Taşanlar Rent A Car"
+   }
+  }
+ ]
+}

@@ -1,0 +1,730 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 5542054175,
+   "lat": 39.5488905,
+   "lon": 27.0128133,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "info@edorentacar.com1",
+    "name": "EDO Araç Kiralama",
+    "website": "http://www.edorentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542054176,
+   "lat": 39.5488243,
+   "lon": 27.0126995,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Avec Car Rentals",
+    "phone": "+90 266 631 28 33",
+    "website": "https://www.aveccarrentals.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542054177,
+   "lat": 39.548788,
+   "lon": 27.0125741,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Avis Araç Kiralama",
+    "phone": "+90 266 312 24 56",
+    "website": "https://www.avis.com.tr/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11333665936,
+   "lat": 40.3536221,
+   "lon": 27.9725498,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "38",
+    "addr:neighbourhood": "Haydar Çavuş Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Kaşif Acar Caddesi",
+    "addr:unit": "2",
+    "amenity": "car_rental",
+    "name": "Anlam Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11446682490,
+   "lat": 40.3516817,
+   "lon": 27.9683643,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "1",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Mehmetçik Caddesi",
+    "addr:unit": "1",
+    "amenity": "car_rental",
+    "name": "Bilen Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11446682497,
+   "lat": 40.3513775,
+   "lon": 27.9684614,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "8",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Ordu Caddesi",
+    "addr:unit": "1",
+    "amenity": "car_rental",
+    "name": "Mir Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12450998585,
+   "lat": 40.3515601,
+   "lon": 27.9681303,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "5/C",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Mehmetçik Caddesi",
+    "amenity": "car_rental",
+    "name": "Oto Marka Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12724925501,
+   "lat": 39.5906977,
+   "lon": 27.0148185,
+   "tags": {
+    "addr:postcode": "10300",
+    "addr:street": "525. Sokak",
+    "amenity": "car_rental",
+    "email": "ozelfiliz008@gmail.com",
+    "internet_access": "wlan",
+    "opening_hours": "24/7",
+    "phone": "+90 542 459 74 10",
+    "website": "https://www.edremitcekicihizmeti.com.tr/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12951751223,
+   "lat": 40.3552034,
+   "lon": 27.9740473,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "33/B",
+    "addr:neighbourhood": "Günaydın Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Mareşal Fevzi Çakmak Caddesi",
+    "amenity": "car_rental",
+    "name": "Oto Kiralama Alım Satım"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13203384905,
+   "lat": 40.3460188,
+   "lon": 27.9486085,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "19/A",
+    "addr:neighbourhood": "Paşakent Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Şehit Mustafa Boz Caddesi",
+    "amenity": "car_rental",
+    "name": "Brs Tour"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13244649830,
+   "lat": 40.3397263,
+   "lon": 27.9504968,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "8/4B",
+    "addr:neighbourhood": "Paşakent Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Şehit Hüseyin Süzener Caddesi",
+    "amenity": "car_rental",
+    "name": "Cüneyt Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13294541383,
+   "lat": 40.3513014,
+   "lon": 27.9678011,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "9/A",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Mehmetçik Caddesi",
+    "amenity": "car_rental",
+    "name": "Boss Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13299578178,
+   "lat": 40.3502666,
+   "lon": 27.9665525,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "27/A",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Mehmetçik Caddesi",
+    "amenity": "car_rental",
+    "name": "Gökçağ Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13304711793,
+   "lat": 40.3488914,
+   "lon": 27.9652342,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "4/A",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "16009 Sokak",
+    "amenity": "car_rental",
+    "name": "Banpaş Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13328261504,
+   "lat": 40.3502073,
+   "lon": 27.9689451,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "2/A",
+    "addr:neighbourhood": "Dere Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "8000 Sokak",
+    "amenity": "car_rental",
+    "name": "Perama Marine"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13340121068,
+   "lat": 40.3541838,
+   "lon": 27.974466,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "23/A",
+    "addr:neighbourhood": "Günaydın Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "11035 Sokak",
+    "amenity": "car_rental",
+    "name": "Erenler Araç Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13357340833,
+   "lat": 40.3541933,
+   "lon": 27.9768776,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "1/A",
+    "addr:neighbourhood": "Paşamescit Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Şükrü Naili Caddesi",
+    "amenity": "car_rental",
+    "name": "Uğur Otomotiv Gayrimenkul"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13373911284,
+   "lat": 40.3561631,
+   "lon": 27.9744174,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "130/A",
+    "addr:neighbourhood": "Paşamescit Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "İsmet İnönü Caddesi",
+    "amenity": "car_rental",
+    "name": "Efe Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13377980048,
+   "lat": 40.3498659,
+   "lon": 27.9870446,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "2/A",
+    "addr:neighbourhood": "İhsaniye Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "13003 Sokak",
+    "amenity": "car_rental",
+    "name": "Uğur Auto"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13401735716,
+   "lat": 40.3474247,
+   "lon": 27.977785,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "173/F",
+    "addr:neighbourhood": "17 Eylül Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Atatürk Caddesi",
+    "amenity": "car_rental",
+    "name": "KMG Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13405658432,
+   "lat": 40.3455014,
+   "lon": 27.9786243,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "5/B",
+    "addr:neighbourhood": "17 Eylül Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Halil Özümit Sokağı",
+    "amenity": "car_rental",
+    "name": "Şahinler Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13410300688,
+   "lat": 40.3471921,
+   "lon": 27.980665,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "22/A",
+    "addr:neighbourhood": "17 Eylül Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "1019 Sokak",
+    "amenity": "car_rental",
+    "name": "Gezer Motor"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13423954922,
+   "lat": 40.3478895,
+   "lon": 27.9744641,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "14-16/E",
+    "addr:neighbourhood": "Sunullah Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "20075 Sokak",
+    "amenity": "car_rental",
+    "name": "Cüneyt Auto Center"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13434355491,
+   "lat": 40.3421591,
+   "lon": 27.9677515,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "119/B",
+    "addr:neighbourhood": "Sunullah Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Ordu Caddesi",
+    "amenity": "car_rental",
+    "name": "Kaplan Otomotiv"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13436171850,
+   "lat": 40.3434862,
+   "lon": 27.9722741,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "9/A",
+    "addr:neighbourhood": "Sunullah Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "20061 Sokak",
+    "amenity": "car_rental",
+    "name": "Zeplin Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13474095307,
+   "lat": 40.3382737,
+   "lon": 27.9890938,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "4/A",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2141 Sokak",
+    "amenity": "car_rental",
+    "name": "Crazy ATV"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13519904978,
+   "lat": 40.3463489,
+   "lon": 27.93954,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "4/A",
+    "addr:neighbourhood": "Yeni Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "21034 Sokak",
+    "amenity": "car_rental",
+    "name": "Liva Karavan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13592915935,
+   "lat": 40.3474638,
+   "lon": 27.9920379,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "80/A",
+    "addr:neighbourhood": "100. Yıl Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Kayacık Caddesi",
+    "amenity": "car_rental",
+    "name": "Yağmur Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13596328308,
+   "lat": 40.3407756,
+   "lon": 27.9926846,
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "8/B",
+    "addr:neighbourhood": "100. Yıl Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2004 Sokak",
+    "amenity": "car_rental",
+    "name": "Karadağ"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1017820016,
+   "center": {
+    "lat": 40.3408868,
+    "lon": 27.983854
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "3",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Gönen Karayolu Caddesi",
+    "amenity": "car_rental",
+    "building": "yes",
+    "name": "Güven Kadıoğlu"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1182993622,
+   "center": {
+    "lat": 40.3533266,
+    "lon": 27.9718812
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "37",
+    "addr:neighbourhood": "Haydar Çavuş Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Atatürk Caddesi",
+    "amenity": "car_rental",
+    "building": "commercial",
+    "building:levels": "3",
+    "height": "10",
+    "name": "Keskinler Rent a Car",
+    "roof:colour": "#707070",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1183490051,
+   "center": {
+    "lat": 40.3459371,
+    "lon": 27.9793911
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "140-142",
+    "addr:neighbourhood": "17 Eylül Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Atatürk Caddesi",
+    "amenity": "car_rental",
+    "building": "commercial",
+    "building:levels": "2",
+    "height": "7",
+    "name": "Rüzgar Rent A Car",
+    "roof:colour": "#707070"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1184086819,
+   "center": {
+    "lat": 40.3516531,
+    "lon": 27.9682771
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "3",
+    "addr:neighbourhood": "Paşabayır Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Mehmetçik Caddesi",
+    "amenity": "car_rental",
+    "building": "apartments",
+    "building:levels": "3",
+    "height": "10",
+    "name": "Sezer Rent A Car",
+    "roof:colour": "#dbdbdb",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1461829380,
+   "center": {
+    "lat": 40.3419022,
+    "lon": 27.9789643
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "50",
+    "addr:neighbourhood": "17 Eylül Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "1051 Sokak",
+    "amenity": "car_rental",
+    "building": "commercial",
+    "building:levels": "2",
+    "height": "7",
+    "name": "Ar-Ge Vinç",
+    "roof:colour": "#dbdbdb",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1486067492,
+   "center": {
+    "lat": 40.324218,
+    "lon": 27.9968631
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "40",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2071 Sokak",
+    "amenity": "car_rental",
+    "building": "industrial",
+    "height": "7.50",
+    "name": "Bankon Treyler",
+    "roof:colour": "#dbdbdb",
+    "roof:height": "1",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1486150149,
+   "center": {
+    "lat": 40.3240632,
+    "lon": 27.9952116
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "31/1",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2064 Sokak",
+    "amenity": "car_rental",
+    "building": "industrial",
+    "height": "7.50",
+    "name": "Harman Traktör",
+    "roof:colour": "#707070",
+    "roof:height": "1",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1486150184,
+   "center": {
+    "lat": 40.3246491,
+    "lon": 27.9947463
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "51-53",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2053 Sokak",
+    "amenity": "car_rental",
+    "building": "industrial",
+    "height": "7.50",
+    "name": "Solak Makine",
+    "roof:colour": "#707070",
+    "roof:height": "1",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1486150186,
+   "center": {
+    "lat": 40.3245747,
+    "lon": 27.9944036
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "59",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2053 Sokak",
+    "amenity": "car_rental",
+    "building": "industrial",
+    "height": "7.50",
+    "name": "Bayram Yem Makineleri",
+    "roof:colour": "#707070",
+    "roof:height": "1",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1488797617,
+   "center": {
+    "lat": 40.3175133,
+    "lon": 28.0023963
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "30",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2104 Sokak",
+    "amenity": "car_rental",
+    "building": "industrial",
+    "height": "4",
+    "name": "Körpe Oto Kurtarıcı",
+    "roof:colour": "#707070",
+    "roof:height": "1",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1488797622,
+   "center": {
+    "lat": 40.3178004,
+    "lon": 28.0014989
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "1",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "2112 Sokak",
+    "amenity": "car_rental",
+    "building": "industrial",
+    "height": "7.50",
+    "name": "Şafak Oto Geri Dönüşüm Tesisi",
+    "roof:colour": "#707070",
+    "roof:height": "1",
+    "roof:shape": "hipped"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1529028583,
+   "center": {
+    "lat": 40.3412083,
+    "lon": 27.9829783
+   },
+   "tags": {
+    "addr:city": "Balıkesir",
+    "addr:district": "Bandırma",
+    "addr:housenumber": "5",
+    "addr:neighbourhood": "600 Evler Mahallesi",
+    "addr:postcode": "10200",
+    "addr:street": "Gönen Karayolu Caddesi",
+    "amenity": "car_rental",
+    "building": "yes",
+    "name": "Şahinbey Rent A Car"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1625 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 925487368,
+   "lat": 41.0185705,
+   "lon": 29.0327883,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Fox Oto Kiralama",
+    "name:ar": "فوكس اوتو لتأجير السيارات",
+    "phone": "+902166515252"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2201695804,
+   "lat": 41.1700781,
+   "lon": 29.0553915,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "MEÇ Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2511872233,
+   "lat": 41.037515,
+   "lon": 28.987876,
+   "tags": {
+    "addr:housenumber": "12/A",
+    "addr:street": "Mete Caddesie",
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "brand:wikipedia": "en:Avis Car Rental",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3184121659,
+   "lat": 41.00046,
+   "lon": 28.8668771,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3184121660,
+   "lat": 40.999456,
+   "lon": 28.8668181,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3930395108,
+   "lat": 40.9670728,
+   "lon": 29.1066483,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Economic Filo Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4244325090,
+   "lat": 41.0359504,
+   "lon": 28.9891335,
+   "tags": {
+    "addr:housenumber": "43a",
+    "amenity": "car_rental",
+    "brand": "Hertz",
+    "brand:wikidata": "Q1543874",
+    "brand:wikipedia": "en:The Hertz Corporation",
+    "name": "Hertz"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4599578282,
+   "lat": 40.9870192,
+   "lon": 28.872069,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Bulut Ret A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4605721765,
+   "lat": 40.9859154,
+   "lon": 28.8795402,
+   "tags": {
+    "addr:city": "İstanbul",
+    "amenity": "car_rental",
+    "name": "NEO Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4956404021,
+   "lat": 41.0410825,
+   "lon": 28.9019626,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Siba Rent a Car",
+    "name:en": "Siba Rent a Car",
+    "name:tr": "Siba Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5108828004,
+   "lat": 41.0128958,
+   "lon": 28.9781262,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Hüdavendigar Caddesi",
+    "amenity": "car_rental",
+    "name": "Landini Traktörleri Türkiye Distribütörü",
+    "phone": "+90 212 512 32 35"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5113465221,
+   "lat": 41.0179049,
+   "lon": 28.9520988,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Fatih Türbesi Sokağı",
+    "amenity": "car_rental",
+    "name": "Eren Oto Elektrik",
+    "name:ar": "ارين اوتو الكتريك"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5113590268,
+   "lat": 41.0095346,
+   "lon": 28.9412593,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Darüşşifa Sokak",
+    "amenity": "car_rental",
+    "branch": "Şarkuteri",
+    "brand": "ADA",
+    "brand:wikidata": "Q57313774",
+    "name": "ADA",
+    "name:ar": "اضا شاركوتري",
+    "shop": "kiosk"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5113599422,
+   "lat": 41.009999,
+   "lon": 28.9397628,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Hatip naci sokak",
+    "amenity": "car_rental",
+    "branch": "market",
+    "brand": "ADA",
+    "brand:wikidata": "Q57313774",
+    "name": "ADA",
+    "name:ar": "اضا ماركت",
+    "shop": "kiosk"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5244801991,
+   "lat": 41.0036158,
+   "lon": 28.9735622,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Kaleci Sokak",
+    "amenity": "car_rental",
+    "name": "Donat Turizm",
+    "name:ar": "دونات توريزم",
+    "operator:type": "private"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5263321421,
+   "lat": 40.9852238,
+   "lon": 28.8342901,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5269979847,
+   "lat": 40.8951099,
+   "lon": 29.1834945,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "brand:wikipedia": "en:Enterprise Rent-A-Car",
+    "name": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5286468987,
+   "lat": 40.9589292,
+   "lon": 29.0955462,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Bostancı Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5291793668,
+   "lat": 40.9615437,
+   "lon": 29.0929941,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Göktuğ Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329298030,
+   "lat": 40.9700405,
+   "lon": 29.2686028,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Gecem Sokağı",
+    "amenity": "car_rental",
+    "name": "Sürmene Otomotiv",
+    "name:ar": "سورمينه اوتوموتيف",
+    "phone": "+90 541 528 61 53"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329298107,
+   "lat": 40.9675215,
+   "lon": 29.2723902,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Demokrasi Caddesi",
+    "amenity": "car_rental",
+    "name": "Beyazıt Otomotiv",
+    "name:ar": "بيازيت اوتوموتيف",
+    "phone": "+90 537 946 53 34"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329298450,
+   "lat": 40.9666468,
+   "lon": 29.2742817,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Sarpkaya Sokağı",
+    "amenity": "car_rental",
+    "name": "Şenses Otomotiv",
+    "name:ar": "شانسيس اوتوموتيف",
+    "phone": "+90 539 945 77 00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329319536,
+   "lat": 40.9721849,
+   "lon": 29.2614854,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "yenişehir Sokağı",
+    "amenity": "car_rental",
+    "name": "Oto çarşı",
+    "name:ar": "تأجير سيارات اوتو شارشي"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329320596,
+   "lat": 40.9722287,
+   "lon": 29.2610648,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Demokrasi Caddesi",
+    "amenity": "car_rental",
+    "name": "Istek Otomotiv ve inşaat",
+    "name:ar": "استيك اوتوموتيف وانشاءات"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329335358,
+   "lat": 40.9662008,
+   "lon": 29.2644619,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa caddesi",
+    "amenity": "car_rental",
+    "name": "Kutay otomotiv",
+    "name:ar": "تأجير سيارات كوتاي",
+    "phone": "+90 216 398 41 20"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329335418,
+   "lat": 40.9698696,
+   "lon": 29.265661,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Atatürk caddesi",
+    "amenity": "car_rental",
+    "name": "Garaj otomotiv sultanbeyli",
+    "name:ar": "كاراج اوتوموتيف",
+    "phone": "+90 216 498 96 88"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329336004,
+   "lat": 40.9688985,
+   "lon": 29.2679166,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Yusuf islam sokağı",
+    "amenity": "car_rental",
+    "name": "Onur tour",
+    "name:ar": "اونور",
+    "phone": "+90 216 419 12 50"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329336006,
+   "lat": 40.9700283,
+   "lon": 29.2656547,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Atatürk caddesi",
+    "amenity": "car_rental",
+    "name": "Angaraj otomativ",
+    "name:ar": "انكاراج لتأجير السيارات",
+    "phone": "+90 216 498 96 68"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329336017,
+   "lat": 40.96518,
+   "lon": 29.2733668,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Erdoğan caddesi",
+    "amenity": "car_rental",
+    "name": "Özgür otomotiv",
+    "name:ar": "تأجير سيارات اوزغور",
+    "phone": "+90 538 773 90 49"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329336543,
+   "lat": 40.9661765,
+   "lon": 29.2645263,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa caddesi",
+    "amenity": "car_rental",
+    "name": "Pasha oto emlak",
+    "name:ar": "تأجير سيارات الباشا",
+    "phone": "+90 531 472 12 36"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329337950,
+   "lat": 40.9663304,
+   "lon": 29.2647409,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa caddesi",
+    "name": "Güven perde ve oto kiralama",
+    "name:ar": "برادي غوفين",
+    "opening_hours": "Mo-Fr 07:00-13:30; Mo-Fr 17:00-20:00",
+    "phone": "+90 536 254 69 34",
+    "shop": "furniture"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329337973,
+   "lat": 40.9671567,
+   "lon": 29.2708992,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Atatürk Cd",
+    "amenity": "car_rental",
+    "name": "Tevhid Otomotiv",
+    "name:ar": "تأجير وبيع السيارات",
+    "phone": "+90 544 497 73 17"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5329337988,
+   "lat": 40.9671162,
+   "lon": 29.2710709,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Atatürk Cd",
+    "amenity": "car_rental",
+    "name": "Genç Umut Otomotiv",
+    "name:ar": "تأجير سيارات",
+    "phone": "+90 216 496 64 85"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5484743921,
+   "lat": 40.987845,
+   "lon": 28.9054264,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Tahmaz"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883194,
+   "lat": 40.9654144,
+   "lon": 29.2765045,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Fatih Bulvarı",
+    "amenity": "car_rental",
+    "name": "Sultanbeyli oto kiralama",
+    "name:ar": "مكتب سلطان بيلي لتأجير السيارات",
+    "opening_hours": "24/7",
+    "phone": "+90 533 386 72 87"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883394,
+   "lat": 40.9633657,
+   "lon": 29.28516,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Fatih Bulvarı Caddesi",
+    "amenity": "car_rental",
+    "name": "Basmakcı Oto kiralama",
+    "name:ar": "مكتب بسمكجي للسيارات",
+    "phone": "+90 537 815 16 58"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883405,
+   "lat": 40.9661111,
+   "lon": 29.255476,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Karaçay sokaği",
+    "amenity": "car_rental",
+    "name": "Balacan Otomotiv",
+    "name:ar": "تأجير سيارات بالاجان",
+    "phone": "+90 216 419 39 06"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883409,
+   "lat": 40.9498146,
+   "lon": 29.3008921,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Makner Sokağı",
+    "amenity": "car_rental",
+    "name": "Dursunlar Grup",
+    "name:ar": "محل سيارات",
+    "operator": "Halis Dursun",
+    "phone": "+90 541 643 35 36"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883523,
+   "lat": 40.9354496,
+   "lon": 29.2844554,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Antalya caddsi",
+    "amenity": "car_rental",
+    "name": "Mahmut gayrimenkul.ve.inşaat",
+    "name:ar": "(محل سيارات)كايريمانول وانشااات",
+    "phone": "+90 533 168 46 21"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883559,
+   "lat": 40.9670832,
+   "lon": 29.259553,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Menderes Sokaği",
+    "name": "Oto car Rental",
+    "name:ar": "مكتب بيع سيارات رينتال",
+    "opening_hours": "Mo-Fr 07:00-13:30; Mo-Fr 17:00-20:00",
+    "phone": "+90 216 999 64 84",
+    "shop": "car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883580,
+   "lat": 40.9674397,
+   "lon": 29.2597461,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa Caddesi",
+    "amenity": "car_rental",
+    "name": "Araba kiralama şirketi",
+    "name:ar": "تاجير سيارات كيرالاما",
+    "phone": "053533887983"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883600,
+   "lat": 40.9363511,
+   "lon": 29.2851281,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Asır Sokağı",
+    "amenity": "car_rental",
+    "name": "Emefe",
+    "name:ar": "(شركة سيارات)امافه",
+    "phone": "4441937"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883610,
+   "lat": 40.9621413,
+   "lon": 29.2803669,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Demokrasi Caddesi",
+    "amenity": "car_rental",
+    "name": "Serhat Otomotiv",
+    "name:ar": "مكتب سرحت للسيارات"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883690,
+   "lat": 40.9681202,
+   "lon": 29.2551327,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa Caddesi",
+    "amenity": "car_rental",
+    "name": "Güven Otomotiv",
+    "name:ar": "تأجير سيارات غوفين",
+    "phone": "+90 544 505 99 44"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883760,
+   "lat": 40.9619671,
+   "lon": 29.280713,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Demokrasi Caddesi",
+    "amenity": "car_rental",
+    "name": "Zafer Oto Elektronik",
+    "name:ar": "محل زفير لتصليح السيارات",
+    "phone": "+90 216 487 18 25"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883795,
+   "lat": 40.9672452,
+   "lon": 29.2604971,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa Caddesi",
+    "amenity": "car_rental",
+    "name": "Pasha rent acar",
+    "name:ar": "تاجير سيارات باسها",
+    "phone": "+90 216 398 01 80"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883799,
+   "lat": 40.9650903,
+   "lon": 29.2573428,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Petrol yolu Caddesi",
+    "amenity": "car_rental",
+    "name": "Çakıroğlu Rent acar",
+    "name:ar": "تاجير سيارات شاكر اوغلو",
+    "phone": "+90 507 814 11 49"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883807,
+   "lat": 40.9642234,
+   "lon": 29.283371,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Fatih Bulvarı Caddesi",
+    "amenity": "car_rental",
+    "name": "Ayaz Otomotiv",
+    "name:ar": "محل أيازلتصليح السيارات",
+    "phone": "+90 543 277 39 37"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542883809,
+   "lat": 40.9706531,
+   "lon": 29.2478024,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "hasanpaşa cadesı جادة حسان باشا",
+    "amenity": "car_rental",
+    "name": "Cimsa( evden eve nakliyat)",
+    "name:ar": "جيمسا( نقليات)",
+    "operator": "Cimsa جيمسا",
+    "phone": "+90 216 496 62 02"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542886372,
+   "lat": 40.9676863,
+   "lon": 29.2547019,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Eyüp Sultan Caddesi",
+    "amenity": "car_rental",
+    "name": "Goksu Rent a car",
+    "name:ar": "تأجير سيارات غوكسو رينت",
+    "phone": "+90 850 522 3668"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542886390,
+   "lat": 40.9676422,
+   "lon": 29.2597032,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Sultanbeyli",
+    "addr:street": "Şanlıurfa Caddesi",
+    "amenity": "car_rental",
+    "name": "Paylan rent",
+    "name:ar": "تأجير سيارات بايلان",
+    "phone": "+90 216 419 48 51"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5542889005,
+   "lat": 40.9355529,
+   "lon": 29.2837314,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:street": "Anralva gaddesı caddsi",
+    "amenity": "car_rental",
+    "furniture": "used",
+    "name": "oto kiralama",
+    "name:ar": "(محل ادوات منزليه)اوتو كيراما",
+    "phone": "+90 541 388 34 61"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667637501,
+   "lat": 41.0067484,
+   "lon": 28.9044271,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Zeytinburnu",
+    "addr:street": "Mevlana Caddesi",
+    "amenity": "car_rental",
+    "name": "alka inşaat",
+    "name:ar": "ألكا للعقارات وتأجير السيارات"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667657788,
+   "lat": 40.9941613,
+   "lon": 28.9027967,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Zeytinburnu",
+    "amenity": "car_rental",
+    "name": "İbrahim Rentcar",
+    "name:ar": "ابراهم لتأجير السيارات",
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667659684,
+   "lat": 40.9877871,
+   "lon": 28.9055639,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Zeytinburnu",
+    "addr:street": "48. Sokak",
+    "amenity": "car_rental",
+    "name": "Tahmaz",
+    "name:ar": "تاهماز"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667661170,
+   "lat": 40.9809187,
+   "lon": 28.8978848,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Zeytinburnu",
+    "amenity": "car_rental",
+    "name": "Zen motors",
+    "name:ar": "زين للسيارات",
+    "shop": "car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667661793,
+   "lat": 40.9943935,
+   "lon": 28.9163574,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Zeytinburnu",
+    "amenity": "car_rental",
+    "name:ar": "ورشة اسنلر",
+    "opening_hours": "Mo-Fr 07:00-13:30; Mo-Fr 17:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667670050,
+   "lat": 41.046851,
+   "lon": 28.8399036,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Bağcılar",
+    "addr:street": "Yonca sokak",
+    "amenity": "car_rental",
+    "name": "Menekşe",
+    "name:ar": "منكشة",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667673407,
+   "lat": 41.0536277,
+   "lon": 28.8484237,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Bağcılar",
+    "amenity": "car_rental",
+    "name": "Suskun car renting",
+    "name:ar": "سوسكون لتأجير السيارات"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5667689805,
+   "lat": 41.0329194,
+   "lon": 28.8433568,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Bağcılar",
+    "addr:street": "Mevlana caddesi",
+    "amenity": "car_rental",
+    "name": "Nesil rent a car",
+    "name:ar": "نسيل لتأجير و شراء السيارات",
+    "phone": "+90 541 969 34 34"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6106198095,
+   "lat": 41.0866719,
+   "lon": 29.0074853,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Vınn Rent A Car",
+    "phone": "+902122836336",
+    "website": "www.vinnrentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6315459960,
+   "lat": 40.886443,
+   "lon": 29.218388,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6545299279,
+   "lat": 41.0435102,
+   "lon": 28.9867975,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "brand:wikipedia": "en:Avis Car Rental",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6545302905,
+   "lat": 41.043517,
+   "lon": 28.9869906,
+   "tags": {
+    "addr:postcode": "34367",
+    "amenity": "car_rental",
+    "brand": "Sixt",
+    "brand:wikidata": "Q705664",
+    "brand:wikipedia": "en:Sixt",
+    "name": "Sixt",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6742294603,
+   "lat": 40.9086125,
+   "lon": 29.3167773,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Budget",
+    "brand:wikidata": "Q1001437",
+    "brand:wikipedia": "en:Budget Rent a Car",
+    "name": "Budget",
+    "official_name": "Budget Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6742294604,
+   "lat": 40.9085836,
+   "lon": 29.3166878,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "brand:wikipedia": "en:Enterprise Rent-A-Car",
+    "name": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6742294605,
+   "lat": 40.908555,
+   "lon": 29.3165926,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "brand:wikipedia": "en:Avis Car Rental",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6742341436,
+   "lat": 40.9085687,
+   "lon": 29.3168182,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "brand:wikipedia": "en:Europcar",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6742341437,
+   "lat": 40.9085433,
+   "lon": 29.3167298,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Green Motion",
+    "brand:wikidata": "Q65315691",
+    "name": "Green Motion"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6742341438,
+   "lat": 40.9085172,
+   "lon": 29.3166434,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "GarentaDAY",
+    "brand:wikidata": "Q106801676",
+    "name": "GarentaDAY"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7077604790,
+   "lat": 41.0636395,
+   "lon": 28.8394255,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Lacivert Auto & Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7123964186,
+   "lat": 41.0426826,
+   "lon": 29.0016215,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Dusiko meyhane"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7658751741,
+   "lat": 41.0225945,
+   "lon": 29.123904,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Oto Meydan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8367069261,
+   "lat": 41.0120516,
+   "lon": 29.1068891,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9228696976,
+   "lat": 41.0637948,
+   "lon": 28.6675758,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Boss Auto"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9228696977,
+   "lat": 41.0637708,
+   "lon": 28.6676271,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ak Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9262135419,
+   "lat": 41.0400611,
+   "lon": 28.9879132,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "GarentaDAY",
+    "brand:wikidata": "Q106801676",
+    "name": "GarentaDAY"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9393809467,
+   "lat": 40.9852185,
+   "lon": 29.109451,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Green Motion",
+    "brand:wikidata": "Q65315691",
+    "name": "Green Motion"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10017829547,
+   "lat": 40.9746114,
+   "lon": 29.0960018,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "City Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10046986922,
+   "lat": 41.1038017,
+   "lon": 28.8665258,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2025-02-27",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10110158223,
+   "lat": 41.0768718,
+   "lon": 28.9357875,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Otomotiv RT Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10118701317,
+   "lat": 41.0708171,
+   "lon": 28.8678729,
+   "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "34235",
+    "addr:street": "Giyimkent Caddesi",
+    "amenity": "car_rental",
+    "email": "info@avecrentacar.com",
+    "name": "AVEC Rent a Car - Tekstilkent",
+    "opening_hours": "Su-Sa 08:00-19:00",
+    "operator": "Replease Turizm",
+    "phone": "+90 212 531 28 32",
+    "website": "https://www.avecrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10118759818,
+   "lat": 41.2573792,
+   "lon": 28.7437002,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "34277",
+    "addr:street": "Terminal Caddesi",
+    "amenity": "car_rental",
+    "email": "info@avecrentacar.com",
+    "name": "AVEC Rent a Car - İstanbul Havalimanı",
+    "name:en": "AVEC Rent a Car - İstanbul Airport",
+    "opening_hours": "24/7",
+    "operator": "Replease Turizm",
+    "phone": "+90 212 244 28 32",
+    "website": "https://www.avecrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10118759819,
+   "lat": 40.9916939,
+   "lon": 28.8309988,
+   "tags": {
+    "addr:housenumber": "14",
+    "addr:postcode": "34158",
+    "addr:street": "E-5 Airport AVM Yanyol",
+    "amenity": "car_rental",
+    "email": "info@avecrentacar.com",
+    "name": "AVEC Rent a Car - Yenibosna",
+    "opening_hours": "Su-Sa 10:00-22:00",
+    "operator": "Replease Turizm",
+    "phone": "+90 212 706 28 30",
+    "website": "https://www.avecrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10118762418,
+   "lat": 40.9759937,
+   "lon": 29.0498731,
+   "tags": {
+    "addr:housenumber": "168",
+    "addr:postcode": "34726",
+    "addr:street": "Bağdat Caddesi",
+    "amenity": "car_rental",
+    "email": "info@avecrentacar.com",
+    "name": "AVEC Rent a Car - Kadıköy",
+    "opening_hours": "Su-Sa 08:30-19:00",
+    "operator": "Replease Turizm",
+    "phone": "+90 216 706 28 00",
+    "website": "https://www.avecrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10118773917,
+   "lat": 40.9086566,
+   "lon": 29.3167482,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "34906",
+    "addr:street": "Sanayi Mah.",
+    "amenity": "car_rental",
+    "email": "info@avecrentacar.com",
+    "name": "AVEC Rent a Car - Sabiha Gökçen Havalimanı",
+    "name:en": "AVEC Rent a Car - Sabiha Gökçen Airport",
+    "opening_hours": "24/7",
+    "operator": "Replease Turizm",
+    "phone": "+90 216 398 28 32",
+    "website": "https://www.avecrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10118801017,
+   "lat": 41.0858065,
+   "lon": 29.0091924,
+   "tags": {
+    "addr:housenumber": "7/A",
+    "addr:postcode": "34330",
+    "addr:street": "Selvili Sokağı",
+    "amenity": "car_rental",
+    "email": "info@avecrentacar.com",
+    "name": "AVEC Rent a Car - 4. Levent",
+    "opening_hours": "Su-Sa 08:30-19:00",
+    "operator": "Replease Turizm",
+    "phone": "+90 212 280 28 32",
+    "website": "https://www.avecrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10137398017,
+   "lat": 40.9924865,
+   "lon": 29.1208353,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Ataşehir",
+    "addr:housenumber": "23",
+    "addr:neighbourhood": "Atatürk Mahallesi",
+    "addr:postcode": "34758",
+    "addr:street": "Ataşehir Bulvarı",
+    "amenity": "car_rental",
+    "email": "atasehir@rentgo.com",
+    "name": "Rent Go",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+90 216 850 41 22",
+    "website": "https://www.rentgo.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10172634723,
+   "lat": 40.9270765,
+   "lon": 29.3184704,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Pendik",
+    "addr:housenumber": "486",
+    "addr:neighbourhood": "Harmandere Mahallesi",
+    "addr:postcode": "34912",
+    "addr:street": "Ankara Caddesi",
+    "amenity": "car_rental",
+    "name": "Sabiha Gökçen Car Rental",
+    "panoramax": "a9fec3f7-3b55-4c50-907b-aa3e09e62990",
+    "phone": "4445883",
+    "website": "https://www.sabihagokcencarrental.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10296740535,
+   "lat": 40.8358214,
+   "lon": 29.2966086,
+   "tags": {
+    "addr:city": "İSTANBUL",
+    "addr:district": "TUZLA",
+    "addr:housenumber": "57/A",
+    "addr:neighbourhood": "Evliya Çelebi Mahallesi",
+    "addr:postcode": "34944",
+    "addr:street": "Rauf Orbay Caddesi",
+    "amenity": "car_rental",
+    "name": "Tarhanlar car rental",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "operator": "444 8 036",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:nakit": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10670180805,
+   "lat": 41.2586875,
+   "lon": 28.7413492,
+   "tags": {
+    "amenity": "car_rental",
+    "internet_access": "wlan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10796633120,
+   "lat": 40.9778029,
+   "lon": 29.1135992,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Murat Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10888992405,
+   "lat": 40.9977985,
+   "lon": 29.0984924,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10888992406,
+   "lat": 40.9977757,
+   "lon": 29.0985058,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Budget",
+    "brand:wikidata": "Q1001437",
+    "name": "Budget",
+    "official_name": "Budget Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10888992408,
+   "lat": 40.996974,
+   "lon": 29.0992274,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Central"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10983122463,
+   "lat": 40.9767717,
+   "lon": 29.0493325,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "name": "Avis",
+    "official_name": "Avis Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11251369937,
+   "lat": 41.0490716,
+   "lon": 28.9855519,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11273099246,
+   "lat": 40.9802182,
+   "lon": 29.0433773,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Kadıköy",
+    "addr:housenumber": "87",
+    "addr:neighbourhood": "Feneryolu Mahallesi",
+    "addr:postcode": "34724",
+    "addr:street": "Bağdat Caddesi",
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "name": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car",
+    "website": "https://www.enterprise.com.tr"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11328073194,
+   "lat": 41.0258177,
+   "lon": 29.0411719,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Üsküdar",
+    "addr:housenumber": "11",
+    "addr:neighbourhood": "Altunizade Mahallesi",
+    "addr:street": "Oymacı Sokağı",
+    "amenity": "car_rental",
+    "name": "Auto Home",
+    "website": "https://www.autohome.com.tr/ofisler/istanbul-uskudar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11329830978,
+   "lat": 40.9763404,
+   "lon": 29.0491107,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Kadıköy",
+    "addr:housenumber": "162",
+    "addr:neighbourhood": "Fenerbahçe Mahallesi",
+    "addr:postcode": "34726",
+    "addr:street": "Bağdat Caddesi",
+    "amenity": "car_rental",
+    "name": "Rent Go",
+    "opening_hours": "09:00 - 19:00",
+    "website": "https://www.rentgo.com/ofislerimiz/istanbul-bagdat-caddesi"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11332619054,
+   "lat": 41.0195014,
+   "lon": 28.7918418,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Kahve Diyarı",
+    "name": "Kahve Diyarı",
+    "takeaway": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11391434669,
+   "lat": 41.0122838,
+   "lon": 28.6756268,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Teknikal motors"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11443285669,
+   "lat": 40.9314701,
+   "lon": 29.1300519,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Uçar Oto Kiralama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11638350406,
+   "lat": 41.0271857,
+   "lon": 29.1243749,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Ümraniye",
+    "addr:housenumber": "8A",
+    "addr:neighbourhood": "Fatih Sultan Mehmet Mahallesi",
+    "addr:postcode": "34771",
+    "addr:street": "Poligon Caddesi",
+    "amenity": "car_rental",
+    "description": "Wish Car Rental güvencesi ile sana en uygun çözümler üretiyoruz.\nWish ile doyasıya keşfet!",
+    "name": "Wish Car Rental",
+    "opening_hours": "Mo-Sa 09:00-18:00",
+    "operator": "Wish Car Rental",
+    "payment:credit_cards": "yes",
+    "phone": "4446129"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12255285501,
+   "lat": 41.2579432,
+   "lon": 28.7445755,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Eva rentacar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12409605258,
+   "lat": 40.9086383,
+   "lon": 29.316766,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Wish Car Rental",
+    "email": "rezervasyon@wishcarrental.com",
+    "name": "Wish Car Rental",
+    "opening_hours": "24/7",
+    "operator": "Wish Car Rental",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "4446129",
+    "website": "https://www.wishcarrental.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12706510096,
+   "lat": 41.0223814,
+   "lon": 28.7894656,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Küçükçekmece",
+    "addr:housenumber": "3/A",
+    "addr:neighbourhood": "Söğütlüçeşme",
+    "addr:postcode": "34295",
+    "addr:street": "Celildağ Caddesi",
+    "amenity": "car_rental",
+    "entrance": "yes",
+    "name": "CLS Group"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12997812449,
+   "lat": 40.9261291,
+   "lon": 29.135521,
+   "tags": {
+    "addr:housenumber": "8",
+    "amenity": "car_rental",
+    "name": "Mirada Araç Kiralama",
+    "phone": "+90 533 640 3041"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13378983615,
+   "lat": 40.9248037,
+   "lon": 29.1374736,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "CVT Rent a Car",
+    "phone:mobile": "+905468066161"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13457826157,
+   "lat": 41.011354,
+   "lon": 29.179609,
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Ümraniye",
+    "addr:housenumber": "32",
+    "addr:neighbourhood": "Madenler Mahallesi",
+    "addr:postcode": "34768",
+    "addr:street": "Şehit Ünal Kalafat Caddesi",
+    "amenity": "car_rental",
+    "contact:facebook": "tekrentacarumraniye",
+    "mobile": "+90 530 345 10 10",
+    "name": "Tek Rent A Car Araç Kiralama",
+    "name:tr": "Tek Rent A Car Araç Kiralama",
+    "opening_hours": "Mo-Sa 08:00-18:30",
+    "operator": "Tek Rent A Car Araç Kiralama",
+    "payment:credit_cards": "yes",
+    "website": "https://www.tekrentacar.com.tr/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14021232338,
+   "lat": 40.8776852,
+   "lon": 29.2278582,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2026-09-07",
+    "name": "ARM Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14182397902,
+   "lat": 40.996906,
+   "lon": 29.0991624,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2026-09-15",
+    "name": "Ziraat Filo"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14216205388,
+   "lat": 41.0405325,
+   "lon": 28.9858575,
+   "tags": {
+    "amenity": "car_rental",
+    "branch": "Taksim",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "name": "Europcar",
+    "source": "MAPS.ME"
+   }
+  },
+  {
+   "type": "way",
+   "id": 723500815,
+   "center": {
+    "lat": 40.9166649,
+    "lon": 29.3094004
+   },
+   "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "name": "Çizgi Rent A Car",
+    "parking": "surface"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1324689401,
+   "center": {
+    "lat": 41.0993573,
+    "lon": 28.9777438
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Umut Vinç"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1390453106,
+   "center": {
+    "lat": 41.056721,
+    "lon": 28.9960867
+   },
+   "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Şişli",
+    "addr:housenumber": "2",
+    "addr:neighbourhood": "19 Mayıs",
+    "addr:postcode": "34363",
+    "addr:street": "Öğretmen Haşim Çeken Caddesi",
+    "amenity": "car_rental",
+    "branch": "İstanbul Fulya Şehir",
+    "brand": "Novacar",
+    "building": "yes",
+    "building:levels": "1",
+    "email": "fulya@novacar.com.tr",
+    "name": "Novacar",
+    "opening_hours": "09:00-19:00",
+    "phone": "+90 549 130 33 06",
+    "website": "https://novacar.com.tr/",
+    "wheelchair": "yes"
+   }
+  }
+ ]
+}

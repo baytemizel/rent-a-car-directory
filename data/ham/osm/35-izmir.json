@@ -1,0 +1,332 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 1323315685,
+   "lat": 38.0210809,
+   "lon": 27.0952667,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Majestik"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4257078365,
+   "lat": 38.4363362,
+   "lon": 27.1461454,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4870207922,
+   "lat": 38.4739535,
+   "lon": 27.1396065,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Can sürücü kursu",
+    "name:tr": "Can sürücü kursu"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5928868986,
+   "lat": 38.4240581,
+   "lon": 27.1364252,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "unokid1@hotmail.com",
+    "internet_access": "wlan",
+    "name": "gelin arabası",
+    "name:en": "wedding rentcar",
+    "opening_hours": "24/7",
+    "operator": "Gelin arabası",
+    "phone": "+90 538 643 1535"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5928879985,
+   "lat": 38.4239133,
+   "lon": 27.1363333,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "klasikotocar@hotmail.com",
+    "internet_access": "wlan",
+    "name": "gelindamataraban",
+    "name:en": "wedding car",
+    "opening_hours": "24/7",
+    "operator": "Gelinarabası",
+    "phone": "+905386431535"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6205515785,
+   "lat": 38.2936415,
+   "lon": 27.1462834,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "vizecarizmir@gmail.com",
+    "internet_access": "wlan",
+    "name": "Vizecar",
+    "opening_hours": "24/7",
+    "operator": "Rent a Car & transfer",
+    "phone": "+905525517327",
+    "website": "https://www.vizecar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6256591594,
+   "lat": 38.3903336,
+   "lon": 27.0900216,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "TAKSİ DURAĞI"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6422795286,
+   "lat": 38.2930417,
+   "lon": 27.1486785,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "İzmir Adnan Menderes Havalimanı"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8166334089,
+   "lat": 38.29467,
+   "lon": 27.1477533,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-06-22",
+    "name": "Erboy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8166334930,
+   "lat": 38.2945654,
+   "lon": 27.1477947,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-06-22",
+    "name": "Boycar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8166348921,
+   "lat": 38.2944591,
+   "lon": 27.1478342,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Cizgi"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8166349859,
+   "lat": 38.2943225,
+   "lon": 27.1478817,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-06-22",
+    "name": "Duray"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8177069920,
+   "lat": 38.2948837,
+   "lon": 27.1460383,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "vizecarizmir@gmail.com",
+    "internet_access": "wlan",
+    "name": "Vizecar",
+    "opening_hours": "24/7",
+    "phone": "+90 552 551 73 27",
+    "website": "https://www.vizecar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8345281805,
+   "lat": 38.430994,
+   "lon": 27.212674,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ege Oto Kiralama",
+    "phone": "+90 532 607 67 69"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9132246938,
+   "lat": 38.4649183,
+   "lon": 27.2119918,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9810945843,
+   "lat": 38.4039265,
+   "lon": 27.123554,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "GHB"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11083509483,
+   "lat": 38.4006529,
+   "lon": 27.1029621,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-08-02",
+    "name": "Artuğ Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11584472469,
+   "lat": 38.4352054,
+   "lon": 27.1465705,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11584472470,
+   "lat": 38.4344211,
+   "lon": 27.1469412,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "The second worst rent a car company Caracas"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11990742169,
+   "lat": 38.3140898,
+   "lon": 27.1478958,
+   "tags": {
+    "addr:housenumber": "36/M",
+    "addr:street": "695. Sokak",
+    "amenity": "car_rental",
+    "contact:facebook": "matcarrental",
+    "contact:instagram": "matcarrental",
+    "email": "reservation@matcarrental.com",
+    "internet_access": "wlan",
+    "name": "Matcar Rental",
+    "opening_hours": "24/7",
+    "phone": "+90 850 303 95 99",
+    "website": "https://www.matcarrental.com/en"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12348360617,
+   "lat": 39.1134233,
+   "lon": 27.178829,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Kuzey Ege Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12348843045,
+   "lat": 39.1105379,
+   "lon": 27.1754449,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Trend Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12365173475,
+   "lat": 39.1173042,
+   "lon": 27.1793325,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Pusula Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13002562204,
+   "lat": 37.9491182,
+   "lon": 27.3681855,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Eriş Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13100384975,
+   "lat": 38.4315188,
+   "lon": 27.1468051,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Otoby Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13473469912,
+   "lat": 38.4361786,
+   "lon": 27.1458405,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2026-01-21",
+    "name": "Ceylan Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14175282095,
+   "lat": 39.0701598,
+   "lon": 26.8877089,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2026-09-11",
+    "name": "Ada Filo"
+   }
+  },
+  {
+   "type": "way",
+   "id": 883934331,
+   "center": {
+    "lat": 38.4058108,
+    "lon": 27.1141712
+   },
+   "tags": {
+    "addr:city": "İzmir",
+    "addr:district": "Konak",
+    "addr:housenumber": "No:52",
+    "addr:neighbourhood": "Piri Reis, 324. Sk. No:52, 35280 Konak/İzmir",
+    "amenity": "car_rental",
+    "name": "Umut Oto Kiralama",
+    "opening_hours": "24/7",
+    "operator": "Umut Oto Kiralama",
+    "phone": "+905522823067",
+    "website": "https://umutotokiralama.com.tr"
+   }
+  }
+ ]
+}

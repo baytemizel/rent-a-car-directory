@@ -1,0 +1,1629 @@
+{
+ "osm_zaman": "2026-10-05T07:19:35Z",
+ "elements": [
+  {
+   "type": "node",
+   "id": 310989371,
+   "lat": 36.4048831,
+   "lon": 30.4739411,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Olympos Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 379330925,
+   "lat": 36.2638363,
+   "lon": 29.4155482,
+   "tags": {
+    "amenity": "car_rental",
+    "operator": "Abi"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1235780725,
+   "lat": 36.8681604,
+   "lon": 30.638011,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rota Bilisim Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1631571910,
+   "lat": 36.5268326,
+   "lon": 32.0497057,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "info@alanya-eurodan.com",
+    "name": "Eurodan Alanya",
+    "phone": "yes",
+    "source": "usage",
+    "website": "https://alanya-eurodan.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1953339902,
+   "lat": 36.6219337,
+   "lon": 31.7685394,
+   "tags": {
+    "amenity": "car_rental",
+    "description": "Alis Ausflüge Travel / Rent a Car",
+    "name": "Alis Mietwagen / Ausflüge / Ferienwohnungen",
+    "note": "www.alis-ausfluege.com",
+    "operator": "Ali",
+    "payment:cash": "yes",
+    "payment:visa": "yes",
+    "phone": "+90 532 673 28 39"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1972059158,
+   "lat": 36.5438131,
+   "lon": 32.0134749,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "onurrent@hotmail.com",
+    "name": "Onur",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "phone": "+90 242 512 31 44",
+    "phone:mobile": "+90 532 266 01 97",
+    "website": "https://alanyaonurrentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1996635015,
+   "lat": 36.8652141,
+   "lon": 31.0583604,
+   "tags": {
+    "addr:city": "Belek",
+    "addr:housenumber": "35 a",
+    "addr:street": "Akdeniz Mah. Cumhurriyet Cadesi",
+    "amenity": "car_rental",
+    "email": "erkanrentacarbelek@hotmail.com",
+    "name": "Erkan Rent a Car",
+    "operator": "Erkan Pektezel",
+    "phone": "+90 242 7152229",
+    "service:bicycle:rental": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2309221715,
+   "lat": 36.6535898,
+   "lon": 31.6661731,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2752820742,
+   "lat": 36.773853,
+   "lon": 31.3945808,
+   "tags": {
+    "amenity": "car_rental",
+    "email": "arslan@smilerentacar.com",
+    "fax": "+90 242 7532794",
+    "name": "Smile",
+    "operator": "Arslan Celik",
+    "phone": "+90 242 7532715;+90 242 753488586",
+    "rental": "car;bicycle",
+    "service:bicycle:rental": "yes",
+    "website": "http://www.smilerentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2839344585,
+   "lat": 36.9226794,
+   "lon": 30.812721,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Antalya Airport Rent a car / Antalya 07 Rent A Car",
+    "phone": "+90 533 394 65 94",
+    "source": "ANTALYA",
+    "website": "https://www.antalya07rentacar.com/",
+    "wikidata": "Q827480",
+    "wikimedia_commons": "Category:Antalya Airport",
+    "wikipedia": "en:Antalya Airport"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2857476944,
+   "lat": 36.772892,
+   "lon": 31.3943565,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3066062015,
+   "lat": 36.460699,
+   "lon": 32.123327,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3302339311,
+   "lat": 36.2920349,
+   "lon": 32.2886682,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Denizhan Rent-a-car",
+    "phone": "+90 242 463 14 47",
+    "website": "denizhan.rentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3347658083,
+   "lat": 36.7788415,
+   "lon": 31.3957366,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3347658084,
+   "lat": 36.7790737,
+   "lon": 31.3956666,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3672056360,
+   "lat": 36.8064163,
+   "lon": 31.3559711,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3854680693,
+   "lat": 36.8861512,
+   "lon": 30.7060579,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2022-11-26",
+    "name": "Kros Rent a Car & Motorbike",
+    "website": "http://krosrental.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3959069020,
+   "lat": 36.4839055,
+   "lon": 32.1021658,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-11-02",
+    "name": "Gold Rent A Car",
+    "opening_hours:signed": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4294643991,
+   "lat": 36.922482,
+   "lon": 30.8124643,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4403723490,
+   "lat": 36.8869985,
+   "lon": 30.711322,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Audi",
+    "name:en": "a1"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4453263003,
+   "lat": 36.7773274,
+   "lon": 31.4068857,
+   "tags": {
+    "addr:city": "Side",
+    "addr:housenumber": "30/A",
+    "addr:postcode": "07330",
+    "addr:street": "Fatih Sultan Mehmet Bulvarı",
+    "amenity": "car_rental",
+    "contact:mobile": "+90 532 664 40 54",
+    "email": "osmansekerm@gmail.com",
+    "name": "Şeker Rent A Car",
+    "phone": "+90 242 753 64 64"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4517716401,
+   "lat": 36.7744757,
+   "lon": 31.3950662,
+   "tags": {
+    "addr:city": "Side",
+    "addr:postcode": "07330",
+    "addr:street": "Side Caddesi",
+    "amenity": "car_rental",
+    "facebook": "https://www.facebook.com/pages/Donatello-Motorbike-Car-Rental/690645877719611",
+    "name": "Donatello",
+    "opening_hours": "08:00-19:00",
+    "phone": "+90 242 753 28 37",
+    "rental": "motorcycle, car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4517716402,
+   "lat": 36.7745253,
+   "lon": 31.3949437,
+   "tags": {
+    "addr:city": "Side",
+    "addr:district": "Manavgat",
+    "addr:housenumber": "28",
+    "addr:neighbourhood": "Selimiye",
+    "addr:postcode": "07330",
+    "addr:province": "Antalya",
+    "addr:street": "Side Caddesi",
+    "amenity": "car_rental",
+    "email": "info@magicrentacar.com",
+    "fax": "+90 242 753 56 38",
+    "name": "Magic",
+    "phone": "+90 242 753 56 38",
+    "website": "http://www.magicrentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4834010424,
+   "lat": 36.8586909,
+   "lon": 30.8646326,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4834011221,
+   "lat": 36.8590683,
+   "lon": 30.7353488,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Zeleza"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4834011325,
+   "lat": 36.8553026,
+   "lon": 30.7796663,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5000462245,
+   "lat": 36.5967162,
+   "lon": 30.571325,
+   "tags": {
+    "addr:street": "Merkez Mahallesi Bariş Manço Caddesi Kervansaray Sit. D Blok No: 3",
+    "amenity": "car_rental",
+    "fixme": "exact position",
+    "name": "Europcar",
+    "phone": "+90 242 814 11 40"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5058954623,
+   "lat": 36.6546426,
+   "lon": 31.674186,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Melis Car Renta System",
+    "name:en": "Melis Car Renta System",
+    "name:ru": "Прокат машин Melis",
+    "name:tr": "Melis Car Renta System",
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "phone": "+90 242 527 47 15"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5257945745,
+   "lat": 36.8582971,
+   "lon": 30.7408063,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ayazoğlu Ren A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5259799730,
+   "lat": 36.2714885,
+   "lon": 32.3118547,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Aslan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5262382927,
+   "lat": 36.5479478,
+   "lon": 31.983831,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Erhan Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5340882805,
+   "lat": 36.6713368,
+   "lon": 30.5491926,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Enterprise Rent-a-Car",
+    "opening_hours": "24/7",
+    "phone": "+90 532 700 59 97"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418444268,
+   "lat": 36.8570528,
+   "lon": 30.7556429,
+   "tags": {
+    "addr:neighbourhood": "Fener Mah.",
+    "amenity": "car_rental",
+    "name": "M&E Rent a Car",
+    "phone": "+90 242 3235000;+90 532 3351613"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5769806953,
+   "lat": 36.5485258,
+   "lon": 31.9905439,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Can Rent A Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5833874086,
+   "lat": 36.5331011,
+   "lon": 32.0428346,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5841550285,
+   "lat": 36.8630823,
+   "lon": 31.0556886,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Rent a car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5864545486,
+   "lat": 36.6219174,
+   "lon": 31.7685133,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "ALi’s AUSFLUGE",
+    "name:ru": "Аренда у Али",
+    "operator": "Али Бей"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5881970885,
+   "lat": 36.8923871,
+   "lon": 30.6664204,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5908141885,
+   "lat": 36.8639071,
+   "lon": 31.0535087,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5950562186,
+   "lat": 36.5792411,
+   "lon": 31.8902323,
+   "tags": {
+    "amenity": "car_rental",
+    "opening_hours": "Mo-Su 10:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6036066983,
+   "lat": 36.8583775,
+   "lon": 30.7565041,
+   "tags": {
+    "amenity": "car_rental",
+    "contact:mobile": "+90 542 5730803",
+    "contact:phone": "+90 532 6440893",
+    "name": "Mercan Rent A Car",
+    "operator": "Mercan Rent A Car",
+    "phone": "+90 242 3233579"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6036137760,
+   "lat": 36.8583549,
+   "lon": 30.7606785,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Bekir Rent A Car",
+    "operator": "Bekir Rent A Car",
+    "phone": "+90 242 3230133"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6072990007,
+   "lat": 36.2728256,
+   "lon": 32.3097345,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Atilim"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6072991000,
+   "lat": 36.2680297,
+   "lon": 32.3139059,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Gozde oto yikama"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6072991004,
+   "lat": 36.272047,
+   "lon": 32.3105811,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Erkan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6378151855,
+   "lat": 36.2005324,
+   "lon": 29.6404567,
+   "tags": {
+    "addr:city": "Antalya",
+    "addr:district": "Kaş",
+    "addr:neighbourhood": "Andifli Mahallesi",
+    "addr:postcode": "07580",
+    "addr:street": "Bilginler Sokak",
+    "amenity": "car_rental",
+    "brand": "Kaş Transfer l Kaş Rent A Car",
+    "description": "Car Rental\nScooter Rental\nAntalya Airport Transfer\nDalaman Airport Transfer\nLycian Way Group Trips\nBoat Trips",
+    "email": "likyatravelkas@gmail.com",
+    "level": "0",
+    "name": "Kaş Airport Transfer l Car Rental /Bike Rental",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+905510274445",
+    "website": "https://maps.app.goo.gl/EAordsQAu8jp83PW7",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6514662398,
+   "lat": 36.9143456,
+   "lon": 30.8038777,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Cizgi Rent A Car",
+    "opening_hours": "24/7",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.cizgirentacar.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6514662399,
+   "lat": 36.9143422,
+   "lon": 30.8039624,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Sixt",
+    "brand:wikidata": "Q705664",
+    "brand:wikipedia": "en:Sixt",
+    "name": "Sixt",
+    "opening_hours": "24/7",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6514662400,
+   "lat": 36.9143381,
+   "lon": 30.8040441,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Avis",
+    "brand:wikidata": "Q791136",
+    "brand:wikipedia": "en:Avis Car Rental",
+    "name": "Avis",
+    "opening_hours": "24/7",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6514662401,
+   "lat": 36.9143341,
+   "lon": 30.8041182,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "brand:wikipedia": "en:Europcar",
+    "check_date": "2025-01-05",
+    "name": "Europcar",
+    "opening_hours": "24/7",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6514662402,
+   "lat": 36.91433,
+   "lon": 30.8041974,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Budget",
+    "brand:wikidata": "Q1001437",
+    "brand:wikipedia": "en:Budget Rent a Car",
+    "check_date": "2025-01-05",
+    "name": "Budget",
+    "official_name": "Budget Rent a Car",
+    "opening_hours": "24/7",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6514662403,
+   "lat": 36.9143238,
+   "lon": 30.8042767,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Hertz",
+    "brand:wikidata": "Q1543874",
+    "brand:wikipedia": "en:The Hertz Corporation",
+    "name": "Hertz",
+    "opening_hours": "24/7",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6516585387,
+   "lat": 36.852218,
+   "lon": 30.8053229,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6523976686,
+   "lat": 37.0545389,
+   "lon": 31.1036913,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Buggy cross",
+    "name:ru": "Багги кросс",
+    "operator": "вместо 20 км, катают 12 км",
+    "website": "https://www.buggy-cross.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6541084738,
+   "lat": 36.8506688,
+   "lon": 30.8044116,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "U&A"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6541084740,
+   "lat": 36.851649,
+   "lon": 30.8048738,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6557296785,
+   "lat": 36.5971691,
+   "lon": 30.5725123,
+   "tags": {
+    "amenity": "car_rental",
+    "name:ru": "5"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6645931886,
+   "lat": 36.8585097,
+   "lon": 30.7453979,
+   "tags": {
+    "amenity": "car_rental",
+    "name:ru": "Аренда авто. Экскурсии"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6744055635,
+   "lat": 36.6651217,
+   "lon": 30.5576052,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6769261187,
+   "lat": 36.8506141,
+   "lon": 30.6171449,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-03-26",
+    "name:en": "Rent a car",
+    "name:ru": "Прокат авто",
+    "opening_hours": "Mo-Su 08:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6769288585,
+   "lat": 36.301076,
+   "lon": 30.148665,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Arisan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6789351497,
+   "lat": 36.8505813,
+   "lon": 30.8056001,
+   "tags": {
+    "addr:housenumber": "196",
+    "addr:street": "Lara Caddesi",
+    "amenity": "car_rental",
+    "internet_access": "wlan",
+    "name": "HasCar Rent A Car",
+    "operator": "Hasan",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:telephone_cards": "yes",
+    "payment:visa": "yes",
+    "phone": "+905352905515",
+    "website": "https://www.antalyahascar.com/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6789351545,
+   "lat": 36.8492555,
+   "lon": 30.8069277,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6817319886,
+   "lat": 36.8552888,
+   "lon": 30.7981352,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7205857085,
+   "lat": 36.8997155,
+   "lon": 30.6898062,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7425395785,
+   "lat": 36.3303546,
+   "lon": 30.43865,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Özum rent car",
+    "name:en": "Rent car",
+    "name:ru": "Аренда прокат машин"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7462285947,
+   "lat": 36.860163,
+   "lon": 30.8280416,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7516655100,
+   "lat": 36.8517324,
+   "lon": 30.7683421,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7833432585,
+   "lat": 36.5454023,
+   "lon": 31.9930758,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7887207685,
+   "lat": 36.6046815,
+   "lon": 30.5596958,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "мотопрокат"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7903191385,
+   "lat": 36.922765,
+   "lon": 30.8198285,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Boyrent",
+    "name:en": "Boyrent"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7996687985,
+   "lat": 36.2007632,
+   "lon": 29.6394996,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Hava-Kaş",
+    "name:en": "Hava-kash",
+    "name:ru": "Хава-каш"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7997203588,
+   "lat": 36.2007756,
+   "lon": 29.6406356,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Deniz rent car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8014106388,
+   "lat": 36.5271253,
+   "lon": 32.0489861,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8321021528,
+   "lat": 36.5966535,
+   "lon": 30.572529,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Bonita rent a car",
+    "opening_hours": "Mo-Su 08:00-00:00",
+    "phone": "+905326309007",
+    "website": "https://rentacarkemer.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8321021619,
+   "lat": 36.5966225,
+   "lon": 30.5717201,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Solly's And Sihacar travel",
+    "phone": "+902428144532"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8521384318,
+   "lat": 36.8638501,
+   "lon": 31.053573,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Enterpise, Alamo"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8531459717,
+   "lat": 36.9226424,
+   "lon": 30.8199019,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8540157117,
+   "lat": 36.8087254,
+   "lon": 31.3513771,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Rental",
+    "name:en": "Rent a car",
+    "name:ru": "Прокат авто"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8956594218,
+   "lat": 36.4695518,
+   "lon": 32.1184233,
+   "tags": {
+    "addr:street": "Namık Kemal Cd.",
+    "amenity": "car_rental",
+    "name": "Oztur Rent a Car",
+    "name:ru": "Oztur аренда авто"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8956615318,
+   "lat": 36.4702925,
+   "lon": 32.1195438,
+   "tags": {
+    "addr:postcode": "07450",
+    "addr:street": "Namık Kemal Cd.",
+    "amenity": "car_rental",
+    "internet_access": "wlan",
+    "name": "Oztur Rent a Car",
+    "name:ru": "Oztur аренда авто",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "operator": "Mustafa",
+    "phone": "+90 536 889 09 46"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8958202218,
+   "lat": 36.9228989,
+   "lon": 30.8199726,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Windycar",
+    "name:en": "Windycar",
+    "phone": "+90 242 463 20 18",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8960913748,
+   "lat": 36.54426,
+   "lon": 32.0155207,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Galaxy",
+    "phone": "+90 530 119 47 21"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8993585880,
+   "lat": 36.469546,
+   "lon": 32.1169605,
+   "tags": {
+    "addr:city": "Alanya",
+    "addr:district": "Mahmutlar",
+    "addr:neighbourhood": "Mahmutlar",
+    "addr:postcode": "07450",
+    "addr:street": "Barbaros Cd.",
+    "amenity": "car_rental",
+    "name": "Control Car Rental",
+    "opening_hours:signed": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8995695246,
+   "lat": 36.4784479,
+   "lon": 32.1128392,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yener Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9110234674,
+   "lat": 36.9120888,
+   "lon": 30.802208,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "brand:wikipedia": "en:Europcar",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9143237511,
+   "lat": 36.9230111,
+   "lon": 30.8194635,
+   "tags": {
+    "addr:city": "Antalya",
+    "addr:district": "Aksu",
+    "addr:housenumber": "19",
+    "addr:neighbourhood": "Güzelyurt",
+    "addr:street": "İncikpınarı",
+    "amenity": "car_rental",
+    "email": "dejavucar@hotmail.com",
+    "name": "Dejavu Rent A Car",
+    "opening_hours": "24/7",
+    "operator": "Dejavu Rent A Car",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+905077681512",
+    "website": "https://www.antalyaarabakiralama.net/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9203132917,
+   "lat": 36.9247641,
+   "lon": 30.8132086,
+   "tags": {
+    "addr:housenumber": "59/1-E",
+    "addr:street": "Lara Caddesi",
+    "amenity": "car_rental",
+    "name": "Avec Rent a Car - Antalya Havalimanı Karşısı - Aksu",
+    "name:en": "Avec Rent a Car, Near Antalya airport"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9528126117,
+   "lat": 36.8757187,
+   "lon": 30.711627,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Aytucar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9528129317,
+   "lat": 36.9152103,
+   "lon": 30.6649915,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Güney otomotiv rent a car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9590932661,
+   "lat": 36.8779449,
+   "lon": 30.6461654,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Europcar",
+    "brand:wikidata": "Q1376256",
+    "brand:wikipedia": "en:Europcar",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9630928919,
+   "lat": 36.8868282,
+   "lon": 30.706118,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "GRentacar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9739116817,
+   "lat": 36.7264802,
+   "lon": 30.559829,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9781512437,
+   "lat": 36.2939201,
+   "lon": 30.1478071,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9798207659,
+   "lat": 36.9082176,
+   "lon": 30.6487174,
+   "tags": {
+    "amenity": "car_rental",
+    "mobile": "+905462764960",
+    "name": "Özmen",
+    "phone": "+905465404960"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10025392717,
+   "lat": 36.9276402,
+   "lon": 30.816551,
+   "tags": {
+    "amenity": "car_rental",
+    "name:en": "Carwiz"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10214195479,
+   "lat": 36.8523732,
+   "lon": 30.5981291,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Ant Rent",
+    "phone": "+90 546 447 07 65; +90 546 446 07 65"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10220058998,
+   "lat": 36.8844568,
+   "lon": 30.7062541,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2022-11-26",
+    "name": "Anatolia Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10282043846,
+   "lat": 36.7814754,
+   "lon": 31.4042955,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Space"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10554820232,
+   "lat": 36.9306661,
+   "lon": 30.8222211,
+   "tags": {
+    "addr:city": "Antalya",
+    "addr:district": "Aksu",
+    "addr:housenumber": "44/1",
+    "addr:neighbourhood": "Güzelyurt",
+    "addr:postcode": "07112",
+    "addr:street": "Şehit Mustafa Göktürk Caddesi",
+    "amenity": "car_rental",
+    "email": "info@glrrentacar.com",
+    "name": "GLR Rent A Car",
+    "opening_hours": "00:00-24:00",
+    "operator": "GLR Rent A Car",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10649078393,
+   "lat": 36.5528313,
+   "lon": 31.9760205,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-02-10",
+    "name": "Marco Polo",
+    "opening_hours": "24/7",
+    "phone": "+90 535 413 84 63",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10651180325,
+   "lat": 36.5560802,
+   "lon": 31.9784673,
+   "tags": {
+    "addr:housenumber": "46",
+    "addr:street": "Zamanoğlu Caddesi",
+    "amenity": "car_rental",
+    "check_date": "2023-02-12",
+    "name": "Akkoç otomotiv"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10651180326,
+   "lat": 36.5561191,
+   "lon": 31.9786366,
+   "tags": {
+    "addr:housenumber": "48",
+    "addr:street": "Zamanoğlu Caddesi",
+    "amenity": "car_rental",
+    "check_date": "2023-02-12",
+    "name": "Mevlüt otomotiv & emlak",
+    "phone": "+90 532 157 62 99"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10651180328,
+   "lat": 36.5561433,
+   "lon": 31.9793616,
+   "tags": {
+    "addr:housenumber": "54",
+    "addr:street": "Zamanoğlu Caddesi",
+    "amenity": "car_rental",
+    "check_date": "2023-02-12",
+    "name": "Çetin otomotiv",
+    "name:tr": "Çetin otomotiv"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10655635480,
+   "lat": 36.5448147,
+   "lon": 31.9922245,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-02-13"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11041808915,
+   "lat": 36.8818142,
+   "lon": 30.7147939,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Tusia Car Rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11267698580,
+   "lat": 36.5390621,
+   "lon": 32.0279205,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11294927269,
+   "lat": 36.9256308,
+   "lon": 30.8143362,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Sixt"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11305467797,
+   "lat": 36.4843415,
+   "lon": 32.0981882,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2023-11-01",
+    "name": "Antal"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11402451569,
+   "lat": 36.7745499,
+   "lon": 31.3951584,
+   "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Side Caddesi",
+    "amenity": "car_rental",
+    "email": "korkmaze82@hotmail.com",
+    "name": "Korkmaz Rent A  Car",
+    "phone": "+90532660508",
+    "website": "http://www.korkmazrentacar.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11581799665,
+   "lat": 36.9306018,
+   "lon": 30.8222529,
+   "tags": {
+    "addr:city": "Antalya",
+    "addr:district": "Aksu",
+    "addr:housenumber": "44/1",
+    "addr:neighbourhood": "Güzelyurt Mahallesi",
+    "addr:postcode": "07112",
+    "addr:street": "Şehit Mustafa Göktürk Caddesi",
+    "amenity": "car_rental",
+    "name": "United Rent A Car",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12075598569,
+   "lat": 36.6154104,
+   "lon": 31.8005644,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "MCR Efe Quad & Buggy Safari"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12075598669,
+   "lat": 36.61457,
+   "lon": 31.801283,
+   "tags": {
+    "amenity": "car_rental"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12116710408,
+   "lat": 36.9284268,
+   "lon": 30.8000567,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Turtas Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12197585464,
+   "lat": 36.5981798,
+   "lon": 30.562686,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-09-24",
+    "name": "Sinan"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12246641926,
+   "lat": 36.8926492,
+   "lon": 30.7161441,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Diamond Garage"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12256476135,
+   "lat": 36.8861724,
+   "lon": 30.7405577,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Özpirinçci Rent Car",
+    "operator": "Özpirinçci Detailing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12383599857,
+   "lat": 36.8976058,
+   "lon": 30.7157269,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "Yıldızlar Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12463359626,
+   "lat": 36.5563264,
+   "lon": 31.9829185,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2024-12-30",
+    "name": "Karalar otomotiv & inşaat",
+    "phone": "+90 242 522 19 99; +90 532 676 76 68"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12476119104,
+   "lat": 36.9143379,
+   "lon": 30.803917,
+   "tags": {
+    "amenity": "car_rental",
+    "brand": "Enterprise",
+    "brand:wikidata": "Q17085454",
+    "check_date": "2025-01-05",
+    "name": "Enterprise",
+    "name:en": "Enterprise",
+    "official_name": "Enterprise Rent-A-Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12782866501,
+   "lat": 36.5438942,
+   "lon": 31.9899651,
+   "tags": {
+    "amenity": "car_rental",
+    "check_date": "2025-04-26",
+    "name": "Freetime"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12784065178,
+   "lat": 36.544161,
+   "lon": 31.990112,
+   "tags": {
+    "check_date": "2025-04-26",
+    "disused:amenity": "car_rental",
+    "name": "İbo Rent a Car"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13206541911,
+   "lat": 36.9111921,
+   "lon": 30.7696068,
+   "tags": {
+    "addr:city": "Antalya",
+    "addr:district": "Kepez",
+    "addr:housenumber": "8",
+    "addr:neighbourhood": "Altınova Sinan Mahallesi",
+    "addr:postcode": "07170",
+    "addr:street": "Antalya_1 Cad.",
+    "amenity": "car_rental",
+    "name": "Cesur Filo",
+    "operator": "Cesur Filo"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14072181601,
+   "lat": 36.6646871,
+   "lon": 30.5563271,
+   "tags": {
+    "amenity": "car_rental",
+    "name": "EREN RENT A CAR & ПРОКАТ АВТОМОБИЛЕЙ & EMLAK GÖYNÜK - BELDİBİ - KEMER - KİRİŞ - ÇAMYUVA",
+    "opening_hours": "24/7",
+    "phone": "+90 534 624 12 00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14072494601,
+   "lat": 36.664856,
+   "lon": 30.5555319,
+   "tags": {
+    "name": "Экскурсии в Кемере BELOVED TOUR & RENT A CAR",
+    "phone": "+90 532 175 60 65",
+    "shop": "travel_agency"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14073064001,
+   "lat": 36.6704594,
+   "lon": 30.5477676,
+   "tags": {
+    "name": "Vizyon Emlak & Rent A Car",
+    "office": "estate_agent"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14131581957,
+   "lat": 36.8731209,
+   "lon": 30.6485492,
+   "tags": {
+    "addr:city": "Antalya",
+    "addr:district": "Konyaaltı",
+    "addr:place": "Kuşkavağı",
+    "name": "ÇEÇEN EMLAK REAL ESTATE&RENT A CAR",
+    "office": "estate_agent",
+    "opening_hours": "Friday 9:30 AM–6:30 PM  Saturday 9:30 AM–6:30 PM  Sunday (Victory Day) Closed Hours might differ  Monday 9:30 AM–6:30 PM  Tuesday 9:30 AM–6:30 PM  Wednesday 9:30 AM–6:30 PM  Thursday 9:30 AM–6:30 PM",
+    "phone": "+90 546 933 14 92"
+   }
+  },
+  {
+   "type": "way",
+   "id": 186263088,
+   "center": {
+    "lat": 36.5472015,
+    "lon": 32.0104916
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Europcar"
+   }
+  },
+  {
+   "type": "way",
+   "id": 626371204,
+   "center": {
+    "lat": 36.2973522,
+    "lon": 32.300409
+   },
+   "tags": {
+    "addr:city": "Gazipaşa",
+    "addr:district": "Antalya",
+    "addr:neighbourhood": "Aydıncık Mah.",
+    "addr:postcode": "07900",
+    "addr:street": "Paşabey Sokak",
+    "amenity": "car_rental",
+    "building": "yes",
+    "name": "Fly Car Rental"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1241882509,
+   "center": {
+    "lat": 36.9171205,
+    "lon": 30.817268
+   },
+   "tags": {
+    "addr:city": "Aksu",
+    "addr:district": "Antalya",
+    "addr:housenumber": "NO:164/A",
+    "addr:neighbourhood": "GÜZELYURT MAH",
+    "addr:postcode": "07112",
+    "addr:street": "Kardeş Kentler Caddesi",
+    "building": "yes",
+    "description": "Seçil Rent A Car & VİP TRANSFER HİZMETLERİ\nGSM 0 (532) 255 15 28",
+    "name": "Seçil Rent A Car & VİP TRANSFER HİZMETLERİ"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1245822774,
+   "center": {
+    "lat": 36.9305957,
+    "lon": 30.822337
+   },
+   "tags": {
+    "addr:city": "Aksu",
+    "addr:district": "Antalya",
+    "addr:housenumber": "44/1E",
+    "addr:neighbourhood": "Güzelyurt Mahallesi",
+    "addr:postcode": "07112",
+    "addr:street": "Şehit Mustafa Göktürk Caddesi",
+    "amenity": "car_rental",
+    "name": "Park Aslantürk",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1425768178,
+   "center": {
+    "lat": 36.8968137,
+    "lon": 30.7611911
+   },
+   "tags": {
+    "amenity": "car_rental",
+    "building": "yes",
+    "name": "TBR (Turkey Bike Rental)"
+   }
+  }
+ ]
+}
